@@ -1,0 +1,1117 @@
+{
+   "Uber": {
+      "latest_valuation": "$68.0 billion",
+      "total_equity_funding": "$12.9 billion",
+      "last_valuation_date": "Jun-16"
+   },
+   "Didi Chuxing": {
+      "latest_valuation": "$56.0 billion",
+      "total_equity_funding": "$19.2 billion",
+      "last_valuation_date": "Dec-17"
+   },
+   "Xiaomi": {
+      "latest_valuation": "$46.0 billion",
+      "total_equity_funding": "$1.4 billion",
+      "last_valuation_date": "Dec-14"
+   },
+   "Airbnb": {
+      "latest_valuation": "$31.0 billion",
+      "total_equity_funding": "$3.3 billion",
+      "last_valuation_date": "Mar-17"
+   },
+   "Meituan-Dianping": {
+      "latest_valuation": "$30.0 billion",
+      "total_equity_funding": "$8.4 billion",
+      "last_valuation_date": "Oct-17"
+   },
+   "SpaceX": {
+      "latest_valuation": "$21.0 billion",
+      "total_equity_funding": "$1.5 billion",
+      "last_valuation_date": "Jul-17"
+   },
+   "WeWork": {
+      "latest_valuation": "$20.2 billion",
+      "total_equity_funding": "$4.4 billion",
+      "last_valuation_date": "Jul-17"
+   },
+   "Palantir": {
+      "latest_valuation": "$20.0 billion",
+      "total_equity_funding": "$1.9 billion",
+      "last_valuation_date": "Oct-15"
+   },
+   "Lufax": {
+      "latest_valuation": "$18.5 billion",
+      "total_equity_funding": "$1.7 billion",
+      "last_valuation_date": "Dec-15"
+   },
+   "Pinterest": {
+      "latest_valuation": "$12.3 billion",
+      "total_equity_funding": "$1.5 billion",
+      "last_valuation_date": "Jun-17"
+   },
+   "Flipkart": {
+      "latest_valuation": "$11.6 billion",
+      "total_equity_funding": "$5.9 billion",
+      "last_valuation_date": "Aug-17"
+   },
+   "Lyft": {
+      "latest_valuation": "$11.5 billion",
+      "total_equity_funding": "$4.1 billion",
+      "last_valuation_date": "Dec-17"
+   },
+   "DJI": {
+      "latest_valuation": "$10.0 billion",
+      "total_equity_funding": "$576 million",
+      "last_valuation_date": "Sep-16"
+   },
+   "Stripe": {
+      "latest_valuation": "$9.2 billion",
+      "total_equity_funding": "$460 million",
+      "last_valuation_date": "Nov-16"
+   },
+   "Theranos": {
+      "latest_valuation": "$9.0 billion",
+      "total_equity_funding": "$750 million",
+      "last_valuation_date": "Feb-14"
+   },
+   "Zhong An Online": {
+      "latest_valuation": "$8.0 billion",
+      "total_equity_funding": "$934 million",
+      "last_valuation_date": "Jun-15"
+   },
+   "Paytm (One97 Communications)": {
+      "latest_valuation": "$7.0 billion",
+      "total_equity_funding": "$1.8 billion",
+      "last_valuation_date": "May-17"
+   },
+   "Snapdeal": {
+      "latest_valuation": "$6.5 billion",
+      "total_equity_funding": "$1.7 billion",
+      "last_valuation_date": "Feb-16"
+   },
+   "Grabtaxi": {
+      "latest_valuation": "$6.0 billion",
+      "total_equity_funding": "$4.1 billion",
+      "last_valuation_date": "Jul-17"
+   },
+   "Ele.me": {
+      "latest_valuation": "$6.0 billion",
+      "total_equity_funding": "$3.2 billion",
+      "last_valuation_date": "Jun-17"
+   },
+   "Magic Leap": {
+      "latest_valuation": "$6.0 billion",
+      "total_equity_funding": "$1.9 billion",
+      "last_valuation_date": "Oct-17"
+   },
+   "Outcome Health": {
+      "latest_valuation": "$5.5 billion",
+      "total_equity_funding": "$500 million",
+      "last_valuation_date": "May-17"
+   },
+   "Slack": {
+      "latest_valuation": "$5.1 billion",
+      "total_equity_funding": "$765 million",
+      "last_valuation_date": "Sep-17"
+   },
+   "Moderna": {
+      "latest_valuation": "$4.7 billion",
+      "total_equity_funding": "$1.2 billion",
+      "last_valuation_date": "Aug-16"
+   },
+   "Fanatics": {
+      "latest_valuation": "$4.5 billion",
+      "total_equity_funding": "$1.6 billion",
+      "last_valuation_date": "Aug-17"
+   },
+   "GreenSky": {
+      "latest_valuation": "$4.5 billion",
+      "total_equity_funding": "$600 million",
+      "last_valuation_date": "Jan-18"
+   },
+   "Wish (ContextLogic)": {
+      "latest_valuation": "$4.3 billion",
+      "total_equity_funding": "$1.1 billion",
+      "last_valuation_date": "Nov-16"
+   },
+   "Sea": {
+      "latest_valuation": "$4.3 billion",
+      "total_equity_funding": "$1.1 billion",
+      "last_valuation_date": "May-17"
+   },
+   "Instacart": {
+      "latest_valuation": "$4.2 billion",
+      "total_equity_funding": "$875 million",
+      "last_valuation_date": "Feb-18"
+   },
+   "Houzz": {
+      "latest_valuation": "$4.0 billion",
+      "total_equity_funding": "$615 million",
+      "last_valuation_date": "Jun-17"
+   },
+   "SoFi (Social Finance)": {
+      "latest_valuation": "$4.0 billion",
+      "total_equity_funding": "$1.4 billion",
+      "last_valuation_date": "Aug-15"
+   },
+   "Intarcia Therapeutics": {
+      "latest_valuation": "$3.7 billion",
+      "total_equity_funding": "$813 million",
+      "last_valuation_date": "Sep-16"
+   },
+   "Credit Karma": {
+      "latest_valuation": "$3.5 billion",
+      "total_equity_funding": "$369 million",
+      "last_valuation_date": "Jun-15"
+   },
+   "Ola Cabs (ANI Technologies)": {
+      "latest_valuation": "$3.5 billion",
+      "total_equity_funding": "$1.9 billion",
+      "last_valuation_date": "Feb-17"
+   },
+   "Tanium": {
+      "latest_valuation": "$3.5 billion",
+      "total_equity_funding": "$304 million",
+      "last_valuation_date": "Aug-15"
+   },
+   "LeSports": {
+      "latest_valuation": "$3.4 billion",
+      "total_equity_funding": "$1.4 billion",
+      "last_valuation_date": "Mar-16"
+   },
+   "VANCL": {
+      "latest_valuation": "$3.0 billion",
+      "total_equity_funding": "$512 million",
+      "last_valuation_date": "Dec-11"
+   },
+   "DocuSign": {
+      "latest_valuation": "$3.0 billion",
+      "total_equity_funding": "$515 million",
+      "last_valuation_date": "Apr-15"
+   },
+   "Katerra": {
+      "latest_valuation": "$3.0 billion",
+      "total_equity_funding": "$1.1 billion",
+      "last_valuation_date": "Jan-18"
+   },
+   "Bloom Energy": {
+      "latest_valuation": "$2.9 billion",
+      "total_equity_funding": "$1.2 billion",
+      "last_valuation_date": "Sep-11"
+   },
+   "Unity Technologies": {
+      "latest_valuation": "$2.8 billion",
+      "total_equity_funding": "$449 million",
+      "last_valuation_date": "May-17"
+   },
+   "Oscar Health Insurance": {
+      "latest_valuation": "$2.7 billion",
+      "total_equity_funding": "$753 million",
+      "last_valuation_date": "Feb-16"
+   },
+   "Auto1 Group": {
+      "latest_valuation": "$2.7 billion",
+      "total_equity_funding": "$504 million",
+      "last_valuation_date": "Dec-16"
+   },
+   "Qualtrics": {
+      "latest_valuation": "$2.5 billion",
+      "total_equity_funding": "$400 million",
+      "last_valuation_date": "Apr-17"
+   },
+   "InMobi": {
+      "latest_valuation": "$2.5 billion",
+      "total_equity_funding": "$216 million",
+      "last_valuation_date": "Dec-14"
+   },
+   "OneWeb": {
+      "latest_valuation": "$2.5 billion",
+      "total_equity_funding": "$1.7 billion",
+      "last_valuation_date": "Dec-16"
+   },
+   "Mozido": {
+      "latest_valuation": "$2.4 billion",
+      "total_equity_funding": "$268 million",
+      "last_valuation_date": "Oct-14"
+   },
+   "Adyen": {
+      "latest_valuation": "$2.3 billion",
+      "total_equity_funding": "$266 million",
+      "last_valuation_date": "Sep-15"
+   },
+   "Domo": {
+      "latest_valuation": "$2.3 billion",
+      "total_equity_funding": "$689 million",
+      "last_valuation_date": "Apr-17"
+   },
+   "HelloFresh": {
+      "latest_valuation": "$2.2 billion",
+      "total_equity_funding": "$367 million",
+      "last_valuation_date": "Dec-16"
+   },
+   "Trendy Group": {
+      "latest_valuation": "$2.0 billion",
+      "total_equity_funding": "$200 million",
+      "last_valuation_date": "Feb-12"
+   },
+   "Razer": {
+      "latest_valuation": "$2.0 billion",
+      "total_equity_funding": "$200 million",
+      "last_valuation_date": "May-17"
+   },
+   "Coupang": {
+      "latest_valuation": "$2.0 billion",
+      "total_equity_funding": "$1.4 billion",
+      "last_valuation_date": "Jun-15"
+   },
+   "Zenefits (YourPeople)": {
+      "latest_valuation": "$2.0 billion",
+      "total_equity_funding": "$596 million",
+      "last_valuation_date": "Jun-16"
+   },
+   "Github": {
+      "latest_valuation": "$2.0 billion",
+      "total_equity_funding": "$350 million",
+      "last_valuation_date": "Jul-15"
+   },
+   "Avant": {
+      "latest_valuation": "$2.0 billion",
+      "total_equity_funding": "$659 million",
+      "last_valuation_date": "Oct-15"
+   },
+   "Uptake": {
+      "latest_valuation": "$2.0 billion",
+      "total_equity_funding": "$135 million",
+      "last_valuation_date": "Feb-17"
+   },
+   "Microvast": {
+      "latest_valuation": "$2.0 billion",
+      "total_equity_funding": "$450 million",
+      "last_valuation_date": "Apr-17"
+   },
+   "Prosper Marketplace": {
+      "latest_valuation": "$1.9 billion",
+      "total_equity_funding": "$360 million",
+      "last_valuation_date": "Apr-15"
+   },
+   "WePiao": {
+      "latest_valuation": "$1.9 billion",
+      "total_equity_funding": "$811 million",
+      "last_valuation_date": "Apr-16"
+   },
+   "Sprinklr": {
+      "latest_valuation": "$1.8 billion",
+      "total_equity_funding": "$275 million",
+      "last_valuation_date": "Jul-16"
+   },
+   "ZocDoc": {
+      "latest_valuation": "$1.8 billion",
+      "total_equity_funding": "$226 million",
+      "last_valuation_date": "Aug-15"
+   },
+   "AppNexus": {
+      "latest_valuation": "$1.8 billion",
+      "total_equity_funding": "$251 million",
+      "last_valuation_date": "Apr-15"
+   },
+   "Quora": {
+      "latest_valuation": "$1.8 billion",
+      "total_equity_funding": "$226 million",
+      "last_valuation_date": "Apr-17"
+   },
+   "Reddit": {
+      "latest_valuation": "$1.8 billion",
+      "total_equity_funding": "$250 million",
+      "last_valuation_date": "Jul-17"
+   },
+   "Affirm": {
+      "latest_valuation": "$1.8 billion",
+      "total_equity_funding": "$200 million",
+      "last_valuation_date": "Nov-17"
+   },
+   "Honest Co.": {
+      "latest_valuation": "$1.7 billion",
+      "total_equity_funding": "$222 million",
+      "last_valuation_date": "Aug-15"
+   },
+   "BuzzFeed": {
+      "latest_valuation": "$1.7 billion",
+      "total_equity_funding": "$497 million",
+      "last_valuation_date": "Nov-16"
+   },
+   "23andMe": {
+      "latest_valuation": "$1.7 billion",
+      "total_equity_funding": "$491 million",
+      "last_valuation_date": "Sep-17"
+   },
+   "Discord": {
+      "latest_valuation": "$1.6 billion",
+      "total_equity_funding": "$152 million",
+      "last_valuation_date": "Apr-18"
+   },
+   "Lakala.com": {
+      "latest_valuation": "$1.6 billion",
+      "total_equity_funding": "$273 million",
+      "last_valuation_date": "Jun-15"
+   },
+   "JetSmarter": {
+      "latest_valuation": "$1.6 billion",
+      "total_equity_funding": "$157 million",
+      "last_valuation_date": "Dec-16"
+   },
+   "Afiniti": {
+      "latest_valuation": "$1.6 billion",
+      "total_equity_funding": "$122 million",
+      "last_valuation_date": "Apr-17"
+   },
+   "CureVac": {
+      "latest_valuation": "$1.6 billion",
+      "total_equity_funding": "$382 million",
+      "last_valuation_date": "Nov-16"
+   },
+   "Oxford Nanopore": {
+      "latest_valuation": "$1.6 billion",
+      "total_equity_funding": "$471 million",
+      "last_valuation_date": "Dec-16"
+   },
+   "Quanergy": {
+      "latest_valuation": "$1.6 billion",
+      "total_equity_funding": "$150 million",
+      "last_valuation_date": "Aug-16"
+   },
+   "Zoox": {
+      "latest_valuation": "$1.6 billion",
+      "total_equity_funding": "$302 million",
+      "last_valuation_date": "Nov-16"
+   },
+   "InsideSales.com": {
+      "latest_valuation": "$1.5 billion",
+      "total_equity_funding": "N/A",
+      "last_valuation_date": "Jan-17"
+   },
+   "Koudai Shopping": {
+      "latest_valuation": "$1.5 billion",
+      "total_equity_funding": "$364 million",
+      "last_valuation_date": "Oct-14"
+   },
+   "Farfetch": {
+      "latest_valuation": "$1.5 billion",
+      "total_equity_funding": "$700 million",
+      "last_valuation_date": "Jun-17"
+   },
+   "BlaBlaCar": {
+      "latest_valuation": "$1.5 billion",
+      "total_equity_funding": "$312 million",
+      "last_valuation_date": "Jul-15"
+   },
+   "Mu Sigma": {
+      "latest_valuation": "$1.5 billion",
+      "total_equity_funding": "$195 million",
+      "last_valuation_date": "Feb-13"
+   },
+   "Guahao.com": {
+      "latest_valuation": "$1.5 billion",
+      "total_equity_funding": "$509 million",
+      "last_valuation_date": "Sep-15"
+   },
+   "Klarna": {
+      "latest_valuation": "$1.4 billion",
+      "total_equity_funding": "$299 million",
+      "last_valuation_date": "Mar-14"
+   },
+   "Hike": {
+      "latest_valuation": "$1.4 billion",
+      "total_equity_funding": "$260 million",
+      "last_valuation_date": "Aug-16"
+   },
+   "C3 IoT": {
+      "latest_valuation": "$1.4 billion",
+      "total_equity_funding": "$111 million",
+      "last_valuation_date": "Mar-17"
+   },
+   "AvidXchange": {
+      "latest_valuation": "$1.4 billion",
+      "total_equity_funding": "$558 million",
+      "last_valuation_date": "Jun-17"
+   },
+   "Deem": {
+      "latest_valuation": "$1.4 billion",
+      "total_equity_funding": "$474 million",
+      "last_valuation_date": "Sep-11"
+   },
+   "Apttus": {
+      "latest_valuation": "$1.4 billion",
+      "total_equity_funding": "$329 million",
+      "last_valuation_date": "Sep-17"
+   },
+   "Thumbtack": {
+      "latest_valuation": "$1.3 billion",
+      "total_equity_funding": "$273 million",
+      "last_valuation_date": "Sep-15"
+   },
+   "Robinhood": {
+      "latest_valuation": "$1.3 billion",
+      "total_equity_funding": "$176 million",
+      "last_valuation_date": "Mar-17"
+   },
+   "Ticket Monster": {
+      "latest_valuation": "$1.3 billion",
+      "total_equity_funding": "$471 million",
+      "last_valuation_date": "Apr-17"
+   },
+   "Rubrik": {
+      "latest_valuation": "$1.3 billion",
+      "total_equity_funding": "$292 million",
+      "last_valuation_date": "Apr-17"
+   },
+   "Zeta Global": {
+      "latest_valuation": "$1.3 billion",
+      "total_equity_funding": "$310 million",
+      "last_valuation_date": "Apr-17"
+   },
+   "FanDuel": {
+      "latest_valuation": "$1.3 billion",
+      "total_equity_funding": "$363 million",
+      "last_valuation_date": "Jul-15"
+   },
+   "Medallia": {
+      "latest_valuation": "$1.3 billion",
+      "total_equity_funding": "$255 million",
+      "last_valuation_date": "Jul-15"
+   },
+   "Kabbage": {
+      "latest_valuation": "$1.3 billion",
+      "total_equity_funding": "$490 million",
+      "last_valuation_date": "Aug-17"
+   },
+   "Peloton": {
+      "latest_valuation": "$1.3 billion",
+      "total_equity_funding": "$444 million",
+      "last_valuation_date": "May-17"
+   },
+   "Infinidat": {
+      "latest_valuation": "$1.2 billion",
+      "total_equity_funding": "$230 million",
+      "last_valuation_date": "Apr-15"
+   },
+   "Warby Parker": {
+      "latest_valuation": "$1.2 billion",
+      "total_equity_funding": "$218 million",
+      "last_valuation_date": "Apr-15"
+   },
+   "Clover Health": {
+      "latest_valuation": "$1.2 billion",
+      "total_equity_funding": "$425 million",
+      "last_valuation_date": "May-17"
+   },
+   "OfferUp": {
+      "latest_valuation": "$1.2 billion",
+      "total_equity_funding": "$200 million",
+      "last_valuation_date": "Aug-16"
+   },
+   "Automattic": {
+      "latest_valuation": "$1.2 billion",
+      "total_equity_funding": "$190 million",
+      "last_valuation_date": "May-14"
+   },
+   "Global Fashion Group": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$1.5 billion",
+      "last_valuation_date": "Apr-16"
+   },
+   "Actifio": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$208 million",
+      "last_valuation_date": "Mar-14"
+   },
+   "Proteus Digital Health": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$354 million",
+      "last_valuation_date": "Jun-14"
+   },
+   "IronSource": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$103 million",
+      "last_valuation_date": "Aug-14"
+   },
+   "Nextdoor": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$215 million",
+      "last_valuation_date": "Mar-15"
+   },
+   "Shopclues.com": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$468 million",
+      "last_valuation_date": "Jan-16"
+   },
+   "TransferWise": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$117 million",
+      "last_valuation_date": "May-16"
+   },
+   "Cylance": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$177 million",
+      "last_valuation_date": "Jun-16"
+   },
+   "OpenDoor": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$320 million",
+      "last_valuation_date": "Nov-16"
+   },
+   "View": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$644 million",
+      "last_valuation_date": "Feb-17"
+   },
+   "Anaplan": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$240 million",
+      "last_valuation_date": "Jan-16"
+   },
+   "Deliveroo": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$473 million",
+      "last_valuation_date": "Aug-16"
+   },
+   "Carbon": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$222 million",
+      "last_valuation_date": "Sep-16"
+   },
+   "Gusto (ZenPayroll)": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$136 million",
+      "last_valuation_date": "Dec-15"
+   },
+   "Jiuxian": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$250 million",
+      "last_valuation_date": "Jul-15"
+   },
+   "Aiwujiwu": {
+      "latest_valuation": "$1.1 billion",
+      "total_equity_funding": "$305 million",
+      "last_valuation_date": "Nov-15"
+   },
+   "AppDirect": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$245 million",
+      "last_valuation_date": "Oct-15"
+   },
+   "Yello Mobile": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$112 million",
+      "last_valuation_date": "Dec-14"
+   },
+   "CloudFlare": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$72 million",
+      "last_valuation_date": "Dec-12"
+   },
+   "Evernote": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$302 million",
+      "last_valuation_date": "May-12"
+   },
+   "Eventbrite": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$200 million",
+      "last_valuation_date": "Mar-14"
+   },
+   "Tango": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$367 million",
+      "last_valuation_date": "Mar-14"
+   },
+   "Mogujie": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$200 million",
+      "last_valuation_date": "Jun-14"
+   },
+   "Lookout": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$284 million",
+      "last_valuation_date": "Aug-14"
+   },
+   "JustFab": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$250 million",
+      "last_valuation_date": "Aug-14"
+   },
+   "Shazam": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$170 million",
+      "last_valuation_date": "Jan-15"
+   },
+   "Beibei": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$124 million",
+      "last_valuation_date": "Jan-15"
+   },
+   "Pluralsight": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$169 million",
+      "last_valuation_date": "Aug-14"
+   },
+   "Funding Circle": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$273 million",
+      "last_valuation_date": "Apr-15"
+   },
+   "Quikr": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$350 million",
+      "last_valuation_date": "Sep-14"
+   },
+   "MarkLogic": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$173 million",
+      "last_valuation_date": "Apr-15"
+   },
+   "Lamabang": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$120 million",
+      "last_valuation_date": "Mar-15"
+   },
+   "Zomato Media": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$163 million",
+      "last_valuation_date": "Mar-15"
+   },
+   "DraftKings": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$526 million",
+      "last_valuation_date": "Mar-17"
+   },
+   "Zscaler": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$138 million",
+      "last_valuation_date": "Jul-15"
+   },
+   "Tujia": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$465 million",
+      "last_valuation_date": "Aug-15"
+   },
+   "APUS Group": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$116 million",
+      "last_valuation_date": "Jan-15"
+   },
+   "Vox Media": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$126 million",
+      "last_valuation_date": "Aug-15"
+   },
+   "Kik Interactive": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$119 million",
+      "last_valuation_date": "Aug-15"
+   },
+   "Adaptive Biotechnologies": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$425 million",
+      "last_valuation_date": "May-15"
+   },
+   "Datto": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$100 million",
+      "last_valuation_date": "Nov-15"
+   },
+   "Udacity": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$161 million",
+      "last_valuation_date": "Nov-15"
+   },
+   "TutorGroup": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$315 million",
+      "last_valuation_date": "Nov-15"
+   },
+   "Mia.com": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$232 million",
+      "last_valuation_date": "Sep-15"
+   },
+   "Docker": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$182 million",
+      "last_valuation_date": "Apr-15"
+   },
+   "Wifimaster": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$52 million",
+      "last_valuation_date": "Mar-15"
+   },
+   "Panshi": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$220 million",
+      "last_valuation_date": "Apr-15"
+   },
+   "Avast Software": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$100 million",
+      "last_valuation_date": "Feb-14"
+   },
+   "Fanli": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$30 million",
+      "last_valuation_date": "Apr-15"
+   },
+   "ForeScout": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$156 million",
+      "last_valuation_date": "Jan-16"
+   },
+   "SMS Assist": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$255 million",
+      "last_valuation_date": "Jun-16"
+   },
+   "Liepin.com": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$187 million",
+      "last_valuation_date": "Jun-16"
+   },
+   "Mofang Apartments": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$500 million",
+      "last_valuation_date": "Apr-16"
+   },
+   "Africa Internet Group": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$469 million",
+      "last_valuation_date": "Mar-16"
+   },
+   "Compass": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$210 million",
+      "last_valuation_date": "Aug-16"
+   },
+   "Procore": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$143 million",
+      "last_valuation_date": "Dec-16"
+   },
+   "Careem": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$422 million",
+      "last_valuation_date": "Dec-16"
+   },
+   "Huochebang": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$150 million",
+      "last_valuation_date": "Dec-16"
+   },
+   "Zoom Video": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$143 million",
+      "last_valuation_date": "Jan-17"
+   },
+   "Rocket Lab": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$75 million",
+      "last_valuation_date": "Mar-17"
+   },
+   "CrowdStrike": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$256 million",
+      "last_valuation_date": "May-17"
+   },
+   "Symphony": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$229 million",
+      "last_valuation_date": "May-17"
+   },
+   "Yuanfudao": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$120 million",
+      "last_valuation_date": "May-17"
+   },
+   "Cybereason": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$189 million",
+      "last_valuation_date": "Jun-17"
+   },
+   "Decolar.com": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$291 million",
+      "last_valuation_date": "Mar-15"
+   },
+   "Age of Learning": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$182 million",
+      "last_valuation_date": "May-15"
+   },
+   "Ginkgo Bioworks": {
+      "latest_valuation": "$1.0 billion",
+      "total_equity_funding": "$435 million",
+      "last_valuation_date": "Dec-17"
+   },
+   "Home24": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Sep-16"
+   },
+   "Dianping": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Oct-15"
+   },
+   "Spotify": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Apr-18"
+   },
+   "Dropbox": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Mar-18"
+   },
+   "Fab": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Mar-15"
+   },
+   "Gilt Groupe": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Jan-16"
+   },
+   "Good Technology": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Sep-15"
+   },
+   "Jawbone": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Jul-17"
+   },
+   "Legendary Entertainment": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Jan-16"
+   },
+   "MongoDB": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Oct-17"
+   },
+   "Pure Storage": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Oct-15"
+   },
+   "Snap": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Mar-17"
+   },
+   "Square": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Nov-15"
+   },
+   "Cloudera": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Apr-17"
+   },
+   "Jasper Technologies": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Feb-16"
+   },
+   "Sunrun": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Aug-15"
+   },
+   "Kabam": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Dec-16"
+   },
+   "Nutanix": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Sep-16"
+   },
+   "AppDynamics": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Jan-17"
+   },
+   "Delivery Hero": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Jun-17"
+   },
+   "Powa": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Mar-16"
+   },
+   "Shopify": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "May-15"
+   },
+   "Beats Electronics": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Aug-14"
+   },
+   "Box": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Jan-15"
+   },
+   "Coupons.com": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Mar-14"
+   },
+   "Fisker Automotive": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Mar-14"
+   },
+   "Hanhua Financial": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Jun-14"
+   },
+   "GoPro": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Jun-14"
+   },
+   "Hortonworks": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Nov-14"
+   },
+   "JD.com": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "May-14"
+   },
+   "LaShou": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Nov-14"
+   },
+   "Lending Club": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Dec-14"
+   },
+   "Meituan": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Oct-15"
+   },
+   "Mobileye": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Aug-14"
+   },
+   "Nest Labs": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Feb-14"
+   },
+   "New Relic": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Dec-14"
+   },
+   "Rocket Internet": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Oct-14"
+   },
+   "Wayfair": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Oct-14"
+   },
+   "Zalando": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Oct-14"
+   },
+   "Kuaidi Dache": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Apr-15"
+   },
+   "SimpliVity": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Jan-17"
+   },
+   "MuleSoft": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Mar-17"
+   },
+   "Lazada Group": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Apr-16"
+   },
+   "Coupa Software": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Oct-16"
+   },
+   "Blue Apron": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Jun-17"
+   },
+   "Twilio": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Jun-16"
+   },
+   "Okta": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Apr-17"
+   },
+   "Stemcentrx": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Apr-16"
+   },
+   "Jet.com": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Aug-16"
+   },
+   "China Rapid Finance": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Apr-17"
+   },
+   "Mode Media": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Sep-16"
+   },
+   "UCar": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Jul-16"
+   },
+   "UberChina": {
+      "latest_valuation": "Exited",
+      "total_equity_funding": "--",
+      "last_valuation_date": "Aug-16"
+   }
+}

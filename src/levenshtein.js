@@ -1,3 +1,13 @@
+/* Variables ==================================================================== */
+
+// libraries
+const fs = require('fs');
+const _ = require('lodash');
+
+// custom modules
+const unicornJSON = JSON.parse(fs.readFileSync('./src/assets/unicorns_keyed.json', 'utf8'));
+const unicorns = Object.keys(unicornJSON).map(co => co.toLowerCase());
+
 // resources
 // https://jsperf.com/levenshtein123456
 
@@ -86,11 +96,71 @@ const levenshteinB = (a, b) => {
   return matrix[b.length][a.length];
 };
 
+const alphaSearch = (pattern, searchArray) => {
+  const re = new RegExp(`^${pattern}`);
+  return searchArray.filter(elem => re.exec(elem));
+};
+
+/* Search Function ==================================================================== */
+const lookup = (searchTerm, list) => {
+  // Perform levenshtein and save results
+  let levenshteinLimit = 0;
+  if (searchTerm.length === 3) levenshteinLimit = 1;
+  if (searchTerm.length >= 4 && searchTerm.length <= 10) levenshteinLimit = 2;
+  if (searchTerm.length > 10) levenshteinLimit = 3;
+
+  const levenshteinResults = {};
+  for (let i = 0; i <= levenshteinLimit; i++) {
+    levenshteinResults[i] = [];
+  }
+
+  list.reduce((accObj, co) => {
+    const levenshteinDistance = levenshteinA(searchTerm, co);
+    if (levenshteinDistance <= levenshteinLimit) {
+      accObj[levenshteinDistance].push(co);
+    }
+    return accObj;
+  }, levenshteinResults);
+
+  // Perform alpha search and save results IF LD of 0 isn't found
+  let alphaResults = [];
+  if (levenshteinResults[0].length === 0) {
+    alphaResults = alphaSearch(searchTerm, unicorns);
+  }
+
+  /* ---------------
+   * SEARCH METHODS
+   * ---------------
+   * 1. LD of 0 == 1 result
+   * 2. LD == 1 result && alpha is 0 or same
+   * 3. Single result alpha search with >= 4 char
+   * 4. ELSE; if no results, then couldn't find; if multiple results, couldn't figure out
+   * ------------ */
+
+  // first populate a set of results
+  if (levenshteinResults[0].length === 1) {
+    return levenshteinResults[0];
+  }
+  const levenshteinResultsFlat = _.values(levenshteinResults)
+    .reduce((acc, val) => acc.concat(val), []);
+  const resultsSet = new Set();
+  levenshteinResultsFlat
+    .concat(alphaResults)
+    .forEach(co => resultsSet.add(co));
+  const results = [];
+  resultsSet.forEach(v => results.push(v));
+  return results;
+};
+
 /* Exports ==================================================================== */
 
 module.exports = {
+  unicornJSON,
+  unicorns,
   levenshteinA,
   levenshteinB,
+  alphaSearch,
+  lookup,
 };
 
 // console.log(levenshteinA('hello world kitten', 'hello wolrd sitting'));
