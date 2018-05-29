@@ -1,9 +1,9 @@
 /* Variables ==================================================================== */
 
 // constants
-const accountSid = process.env.TWILIO_ACCOUNTSID_TOY;
-const authToken = process.env.TWILIO_AUTH_TOKEN_TOY;
-const twilioPhoneNumber = process.env.TWILIO_PHONE_NUMBER_TOY;
+const accountSid = process.env.TWILIO_ACCOUNTSID;
+const authToken = process.env.TWILIO_AUTH_TOKEN;
+const twilioPhoneNumber = process.env.TWILIO_PHONE_NUMBER;
 
 // libraries
 const client = require('twilio')(accountSid, authToken);
