@@ -25,8 +25,19 @@ const sendSms = (body, to = '+17138825400') => {
     .done();
 };
 
+const respondSms = (body, mediaUrl) => {
+  const twiml = new MessagingResponse();
+  const msg = twiml.message(body);
+  if (mediaUrl) {
+    msg.media(mediaUrl);
+  }
+
+  return twiml.toString();
+};
+
 /* Exports ==================================================================== */
 
 module.exports = {
   sendSms,
+  respondSms,
 };

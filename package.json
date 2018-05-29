@@ -10,6 +10,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "lodash": "^4.17.10",
+    "numeral": "^2.0.6",
     "twilio": "^3.17.1"
   }
 }
