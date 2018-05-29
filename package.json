@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "chat interface to look things up",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "Chris Ramesh <chris.ramesh@gmail.com>",
   "license": "MIT",
   "dependencies": {
