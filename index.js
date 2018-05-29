@@ -74,7 +74,7 @@ app.post('/sms', (req, res) => {
           fwdPe,
           yahooUrl,
         } = findingsObj;
-        const findingsMsg = `${name} (${ticker})\nLast: $${numeral(price).format('0,0.00')}\nMarketCap: $${numeral(marketCap).format('0.0a')}\nFwd P/E: ${numeral(fwdPe).format('0.0')}x\n${yahooUrl}`;
+        const findingsMsg = `${name} (${ticker})\nLast: $${numeral(price).format('0,0.00')}\nMarketCap: $${numeral(marketCap).format('0.0a')}\nFwd P/E: ${numeral(fwdPe).format('0.0')}x${yahooUrl}`;
         res.status(200).send(twilioApi.respondSms(findingsMsg));
       }
     })
