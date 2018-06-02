@@ -35,32 +35,50 @@ app.get('/quote', (req, res) => {
   if (request !== '') {
     Promise.all([
       yahooApi.requestTickerInfoNoReject(request),
-      new Promise((resolve, reject) => {
-        const results = search.lookup(request, search.unicorns);
-        if (results) resolve(results);
-        reject(new Error("Can't find anything"));
-      }),
-    ]).then(response => res.send([response[0], response[1]]))
+      search.lookupPromiseNoReject(request, search.unicorns),
+    ]).then((response) => {
+      const resultsTicker = response[0];
+      const resultsUnicorns = response[1];
+      let results = [];
+
+      // happy: only ticker
+      if (resultsTicker && !resultsUnicorns) results = resultsTicker;
+
+      // happy: only 1 unicorn
+      else if (
+        resultsUnicorns
+        && resultsUnicorns.length === 1
+        && !resultsTicker
+      ) results = resultsUnicorns;
+
+      // multiple unicorn search, whether ticker exists or not:
+      else if (
+        resultsUnicorns
+        && resultsUnicorns.length > 1
+        // && !resultsTicker
+      ) results = resultsUnicorns;
+
+      // 1 ticker 1 unicorn
+      else if (
+        resultsTicker
+        && resultsUnicorns
+        && resultsUnicorns.length === 1
+      ) {
+        if (request === resultsUnicorns[0]) {
+          console.log('request and unicorn result are same');
+          results = resultsUnicorns;
+        } else {
+          console.log('request and unicorn are not the same');
+          results = resultsTicker;
+        }
+      }
+
+      res.send(results);
+    })
       .catch((err) => {
         console.log('ERROR!!');
         res.send(err.message);
       });
-    // yahooApi.requestTickerInfo(request)
-    //   .then((response) => {
-    //     if (response.status !== 200) {
-    //       throw new Error(`No stock found for ticker ${request}`);
-    //     } else {
-    //       res.status(200).send(yahooApi.getSummaryInfo(response));
-    //     }
-    //     // console.log(JSON.stringify(res.data, undefined, 2));
-    //   })
-    //   .catch((err) => {
-    //     let message = `ERROR: ${err.message}`;
-    //     if (err.response.status === 404 || err.response.status === 400) {
-    //       message = `No stock found for ticker "${request}."`;
-    //     }
-    //     res.status(err.response.status).send(message);
-    //   });
   } else {
     res.send('Enter a ticker in url (e.g. /quote?ticker="aapl")');
   }

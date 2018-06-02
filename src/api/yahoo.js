@@ -36,7 +36,7 @@ const requestTickerInfo = (ticker) => {
 const requestTickerInfoNoReject = ticker => new Promise((resolve) => {
   requestTickerInfo(ticker)
     .then(response => resolve(getSummaryInfo(response)))
-    .catch(() => resolve([]));
+    .catch(() => resolve(null));
 });
 
 /* exports ==================================================================== */

@@ -154,6 +154,12 @@ const lookup = (searchTerm, list) => {
   return results;
 };
 
+const lookupPromiseNoReject = (searchTerm, list) => {
+  let results = lookup(searchTerm, list);
+  results = results.length > 0 ? results : null;
+  return new Promise(resolve => resolve(results));
+};
+
 /* Exports ==================================================================== */
 
 module.exports = {
@@ -163,6 +169,7 @@ module.exports = {
   levenshteinB,
   alphaSearch,
   lookup,
+  lookupPromiseNoReject,
 };
 
 // console.log(levenshteinA('hello world kitten', 'hello wolrd sitting'));
