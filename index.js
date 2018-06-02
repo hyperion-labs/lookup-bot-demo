@@ -11,6 +11,7 @@ const numeral = require('numeral');
 // custom modules
 const yahooApi = require('./src/api/yahoo');
 const twilioApi = require('./src/api/twilio');
+const search = require('./src/search');
 
 /* Server ==================================================================== */
 
@@ -32,22 +33,34 @@ app.get('/quote', (req, res) => {
 
   // fetch information from Yahoo
   if (request !== '') {
-    yahooApi.requestTickerInfo(request)
-      .then((response) => {
-        if (response.status !== 200) {
-          throw new Error(`No stock found for ticker ${request}`);
-        } else {
-          res.status(200).send(yahooApi.getSummaryInfo(response));
-        }
-        // console.log(JSON.stringify(res.data, undefined, 2));
-      })
+    Promise.all([
+      yahooApi.requestTickerInfoNoReject(request),
+      new Promise((resolve, reject) => {
+        const results = search.lookup(request, search.unicorns);
+        if (results) resolve(results);
+        reject(new Error("Can't find anything"));
+      }),
+    ]).then(response => res.send([response[0], response[1]]))
       .catch((err) => {
-        let message = `ERROR: ${err.message}`;
-        if (err.response.status === 404 || err.response.status === 400) {
-          message = `No stock found for ticker "${request}."`;
-        }
-        res.status(err.response.status).send(message);
+        console.log('ERROR!!');
+        res.send(err.message);
       });
+    // yahooApi.requestTickerInfo(request)
+    //   .then((response) => {
+    //     if (response.status !== 200) {
+    //       throw new Error(`No stock found for ticker ${request}`);
+    //     } else {
+    //       res.status(200).send(yahooApi.getSummaryInfo(response));
+    //     }
+    //     // console.log(JSON.stringify(res.data, undefined, 2));
+    //   })
+    //   .catch((err) => {
+    //     let message = `ERROR: ${err.message}`;
+    //     if (err.response.status === 404 || err.response.status === 400) {
+    //       message = `No stock found for ticker "${request}."`;
+    //     }
+    //     res.status(err.response.status).send(message);
+    //   });
   } else {
     res.send('Enter a ticker in url (e.g. /quote?ticker="aapl")');
   }
@@ -56,7 +69,7 @@ app.get('/quote', (req, res) => {
 // Sms get request
 app.post('/sms', (req, res) => {
   // collect response
-  const { From, FromCountry, Body } = req.body;
+  const { Body } = req.body;
   res.set('Content-Type', 'text/xml');
 
   // do a lookup to Yahoo query

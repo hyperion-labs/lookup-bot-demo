@@ -8,16 +8,6 @@ const uri = 'https://query1.finance.yahoo.com/v7/finance';
 
 /* api ==================================================================== */
 
-const requestTickerInfo = (ticker) => {
-  const tickerPromise = axios.get(`${uri}/quote`, {
-    params: {
-      symbols: ticker,
-    },
-  });
-
-  return tickerPromise;
-};
-
 const getSummaryInfo = (response) => {
   const firstResult = response.data.quoteResponse.result[0];
   const stockData = {
@@ -33,9 +23,26 @@ const getSummaryInfo = (response) => {
   return stockData;
 };
 
+const requestTickerInfo = (ticker) => {
+  const tickerPromise = axios.get(`${uri}/quote`, {
+    params: {
+      symbols: ticker,
+    },
+  });
+
+  return tickerPromise;
+};
+
+const requestTickerInfoNoReject = ticker => new Promise((resolve) => {
+  requestTickerInfo(ticker)
+    .then(response => resolve(getSummaryInfo(response)))
+    .catch(() => resolve([]));
+});
+
 /* exports ==================================================================== */
 
 module.exports = {
   requestTickerInfo,
+  requestTickerInfoNoReject,
   getSummaryInfo,
 };

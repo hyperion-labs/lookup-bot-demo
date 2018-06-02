@@ -13,7 +13,9 @@ const unicorns = Object.keys(unicornJSON).map(co => co.toLowerCase());
 
 /* Algorithms ==================================================================== */
 
-const levenshteinA = (a, b) => {
+const levenshteinA = (paramA, paramB) => {
+  let a = paramA;
+  let b = paramB;
   if (a.length === 0) return b.length;
   if (b.length === 0) return a.length;
   let tmp;
