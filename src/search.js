@@ -11,6 +11,11 @@ const unicorns = Object.keys(unicornJSON).map(co => co.toLowerCase());
 // resources
 // https://jsperf.com/levenshtein123456
 
+/* Utilities ==================================================================== */
+
+const getUnicornInfo = name => unicorns[name];
+
+
 /* Algorithms ==================================================================== */
 
 const levenshteinA = (paramA, paramB) => {
@@ -127,7 +132,7 @@ const lookup = (searchTerm, list) => {
   // Perform alpha search and save results IF LD of 0 isn't found
   let alphaResults = [];
   if (levenshteinResults[0].length === 0) {
-    alphaResults = alphaSearch(searchTerm, unicorns);
+    alphaResults = alphaSearch(searchTerm, list);
   }
 
   /* ---------------
@@ -170,6 +175,7 @@ module.exports = {
   alphaSearch,
   lookup,
   lookupPromiseNoReject,
+  getUnicornInfo,
 };
 
 // console.log(levenshteinA('hello world kitten', 'hello wolrd sitting'));

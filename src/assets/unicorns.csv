@@ -1,224 +1,171 @@
-company,latest_valuation,total_equity_funding,last_valuation_date
-Uber,$68.0 billion,$12.9 billion,Jun-16
-Didi Chuxing,$56.0 billion,$19.2 billion,Dec-17
-Xiaomi,$46.0 billion,$1.4 billion,Dec-14
-Airbnb,$31.0 billion,$3.3 billion,Mar-17
-Meituan-Dianping,$30.0 billion,$8.4 billion,Oct-17
-SpaceX,$21.0 billion,$1.5 billion,Jul-17
-WeWork,$20.2 billion,$4.4 billion,Jul-17
-Palantir,$20.0 billion,$1.9 billion,Oct-15
-Lufax,$18.5 billion,$1.7 billion,Dec-15
-Pinterest,$12.3 billion,$1.5 billion,Jun-17
-Flipkart,$11.6 billion,$5.9 billion,Aug-17
-Lyft,$11.5 billion,$4.1 billion,Dec-17
-DJI,$10.0 billion,$576 million,Sep-16
-Stripe,$9.2 billion,$460 million,Nov-16
-Theranos,$9.0 billion,$750 million,Feb-14
-Zhong An Online,$8.0 billion,$934 million,Jun-15
-Patym (One97 Communications),$7.0 billion,$1.8 billion,May-17
-Snapdeal,$6.5 billion,$1.7 billion,Feb-16
-Grabtaxi,$6.0 billion,$4.1 billion,Jul-17
-Ele.me,$6.0 billion,$3.2 billion,Jun-17
-Magic Leap,$6.0 billion,$1.9 billion,Oct-17
-Outcome Health,$5.5 billion,$500 million,May-17
-Slack,$5.1 billion,$765 million,Sep-17
-Moderna,$4.7 billion,$1.2 billion,Aug-16
-Fanatics,$4.5 billion,$1.6 billion,Aug-17
-GreenSky,$4.5 billion,$600 million,Jan-18
-Wish (ContextLogic),$4.3 billion,$1.1 billion,Nov-16
-Sea,$4.3 billion,$1.1 billion,May-17
-Instacart,$4.2 billion,$875 million,Feb-18
-Houzz,$4.0 billion,$615 million,Jun-17
-SoFi (Social Finance),$4.0 billion,$1.4 billion,Aug-15
-Intarcia Therapeutics,$3.7 billion,$813 million,Sep-16
-Credit Karma,$3.5 billion,$369 million,Jun-15
-Ola Cabs (ANI Technologies),$3.5 billion,$1.9 billion,Feb-17
-Tanium,$3.5 billion,$304 million,Aug-15
-LeSports,$3.4 billion,$1.4 billion,Mar-16
-VANCL,$3.0 billion,$512 million,Dec-11
-DocuSign,$3.0 billion,$515 million,Apr-15
-Katerra,$3.0 billion,$1.1 billion,Jan-18
-Bloom Energy,$2.9 billion,$1.2 billion,Sep-11
-Unity Technologies,$2.8 billion,$449 million,May-17
-Oscar Health Insurance,$2.7 billion,$753 million,Feb-16
-Auto1 Group,$2.7 billion,$504 million,Dec-16
-Qualtrics,$2.5 billion,$400 million,Apr-17
-InMobi,$2.5 billion,$216 million,Dec-14
-OneWeb,$2.5 billion,$1.7 billion,Dec-16
-Mozido,$2.4 billion,$268 million,Oct-14
-Adyen,$2.3 billion,$266 million,Sep-15
-Domo,$2.3 billion,$689 million,Apr-17
-HelloFresh,$2.2 billion,$367 million,Dec-16
-Trendy Group,$2.0 billion,$200 million,Feb-12
-Razer,$2.0 billion,$200 million,May-17
-Coupang,$2.0 billion,$1.4 billion,Jun-15
-Zenefits (YourPeople),$2.0 billion,$596 million,Jun-16
-Github,$2.0 billion,$350 million,Jul-15
-Avant,$2.0 billion,$659 million,Oct-15
-Uptake,$2.0 billion,$135 million,Feb-17
-Microvast,$2.0 billion,$450 million,Apr-17
-Prosper Marketplace,$1.9 billion,$360 million,Apr-15
-WePiao,$1.9 billion,$811 million,Apr-16
-Sprinklr,$1.8 billion,$275 million,Jul-16
-ZocDoc,$1.8 billion,$226 million,Aug-15
-AppNexus,$1.8 billion,$251 million,Apr-15
-Quora,$1.8 billion,$226 million,Apr-17
-Reddit,$1.8 billion,$250 million,Jul-17
-Affirm,$1.8 billion,$200 million,Nov-17
-Honest Co.,$1.7 billion,$222 million,Aug-15
-BuzzFeed,$1.7 billion,$497 million,Nov-16
-23andMe,$1.7 billion,$491 million,Sep-17
-Discord,$1.6 billion,$152 million,Apr-18
-Lakala.com,$1.6 billion,$273 million,Jun-15
-JetSmarter,$1.6 billion,$157 million,Dec-16
-Afiniti,$1.6 billion,$122 million,Apr-17
-CureVac,$1.6 billion,$382 million,Nov-16
-Oxford Nanopore,$1.6 billion,$471 million,Dec-16
-Quanergy,$1.6 billion,$150 million,Aug-16
-Zoox,$1.6 billion,$302 million,Nov-16
-InsideSales.com,$1.5 billion,N/A,Jan-17
-Koudai Shopping,$1.5 billion,$364 million,Oct-14
-Farfetch,$1.5 billion,$700 million,Jun-17
-BlaBlaCar,$1.5 billion,$312 million,Jul-15
-Mu Sigma,$1.5 billion,$195 million,Feb-13
-Guahao.com,$1.5 billion,$509 million,Sep-15
-Klarna,$1.4 billion,$299 million,Mar-14
-Hike,$1.4 billion,$260 million,Aug-16
-C3 IoT,$1.4 billion,$111 million,Mar-17
-AvidXchange,$1.4 billion,$558 million,Jun-17
-Deem,$1.4 billion,$474 million,Sep-11
-Apttus,$1.4 billion,$329 million,Sep-17
-Thumbtack,$1.3 billion,$273 million,Sep-15
-Robinhood,$1.3 billion,$176 million,Mar-17
-Ticket Monster,$1.3 billion,$471 million,Apr-17
-Rubrik,$1.3 billion,$292 million,Apr-17
-Zeta Global,$1.3 billion,$310 million,Apr-17
-FanDuel,$1.3 billion,$363 million,Jul-15
-Medallia,$1.3 billion,$255 million,Jul-15
-Kabbage,$1.3 billion,$490 million,Aug-17
-Peloton,$1.3 billion,$444 million,May-17
-Infinidat,$1.2 billion,$230 million,Apr-15
-Warby Parker,$1.2 billion,$218 million,Apr-15
-Clover Health,$1.2 billion,$425 million,May-17
-OfferUp,$1.2 billion,$200 million,Aug-16
-Automattic,$1.2 billion,$190 million,May-14
-Global Fashion Group,$1.1 billion,$1.5 billion,Apr-16
-Actifio,$1.1 billion,$208 million,Mar-14
-Proteus Digital Health,$1.1 billion,$354 million,Jun-14
-IronSource,$1.1 billion,$103 million,Aug-14
-Nextdoor,$1.1 billion,$215 million,Mar-15
-Shopclues.com,$1.1 billion,$468 million,Jan-16
-TransferWise,$1.1 billion,$117 million,May-16
-Cylance,$1.1 billion,$177 million,Jun-16
-OpenDoor,$1.1 billion,$320 million,Nov-16
-View,$1.1 billion,$644 million,Feb-17
-Anaplan,$1.1 billion,$240 million,Jan-16
-Deliveroo,$1.1 billion,$473 million,Aug-16
-Carbon,$1.1 billion,$222 million,Sep-16
-Gusto (ZenPayroll),$1.1 billion,$136 million,Dec-15
-Jiuxian,$1.1 billion,$250 million,Jul-15
-Aiwujiwu,$1.1 billion,$305 million,Nov-15
-AppDirect,$1.0 billion,$245 million,Oct-15
-Yello Mobile,$1.0 billion,$112 million,Dec-14
-CloudFlare,$1.0 billion,$72 million,Dec-12
-Evernote,$1.0 billion,$302 million,May-12
-Eventbrite,$1.0 billion,$200 million,Mar-14
-Tango,$1.0 billion,$367 million,Mar-14
-Mogujie,$1.0 billion,$200 million,Jun-14
-Lookout,$1.0 billion,$284 million,Aug-14
-JustFab,$1.0 billion,$250 million,Aug-14
-Shazam,$1.0 billion,$170 million,Jan-15
-Beibei,$1.0 billion,$124 million,Jan-15
-Pluralsight,$1.0 billion,$169 million,Aug-14
-Funding Circle,$1.0 billion,$273 million,Apr-15
-Quikr,$1.0 billion,$350 million,Sep-14
-MarkLogic,$1.0 billion,$173 million,Apr-15
-Lamabang,$1.0 billion,$120 million,Mar-15
-Zomato Media,$1.0 billion,$163 million,Mar-15
-DraftKings,$1.0 billion,$526 million,Mar-17
-Zscaler,$1.0 billion,$138 million,Jul-15
-Tujia,$1.0 billion,$465 million,Aug-15
-APUS Group,$1.0 billion,$116 million,Jan-15
-Vox Media,$1.0 billion,$126 million,Aug-15
-Kik Interactive,$1.0 billion,$119 million,Aug-15
-Adaptive Biotechnologies,$1.0 billion,$425 million,May-15
-Datto,$1.0 billion,$100 million,Nov-15
-Udacity,$1.0 billion,$161 million,Nov-15
-TutorGroup,$1.0 billion,$315 million,Nov-15
-Mia.com,$1.0 billion,$232 million,Sep-15
-Docker,$1.0 billion,$182 million,Apr-15
-Wifimaster,$1.0 billion,$52 million,Mar-15
-Panshi,$1.0 billion,$220 million,Apr-15
-Avast Software,$1.0 billion,$100 million,Feb-14
-Fanli,$1.0 billion,$30 million,Apr-15
-ForeScout,$1.0 billion,$156 million,Jan-16
-SMS Assist,$1.0 billion,$255 million,Jun-16
-Liepin.com,$1.0 billion,$187 million,Jun-16
-Mofang Apartments,$1.0 billion,$500 million,Apr-16
-Africa Internet Group,$1.0 billion,$469 million,Mar-16
-Compass,$1.0 billion,$210 million,Aug-16
-Procore,$1.0 billion,$143 million,Dec-16
-Careem,$1.0 billion,$422 million,Dec-16
-Huochebang,$1.0 billion,$150 million,Dec-16
-Zoom Video,$1.0 billion,$143 million,Jan-17
-Rocket Lab,$1.0 billion,$75 million,Mar-17
-CrowdStrike,$1.0 billion,$256 million,May-17
-Symphony,$1.0 billion,$229 million,May-17
-Yuanfudao,$1.0 billion,$120 million,May-17
-Cybereason,$1.0 billion,$189 million,Jun-17
-Decolar.com,$1.0 billion,$291 million,Mar-15
-Age of Learning,$1.0 billion,$182 million,May-15
-Ginkgo Bioworks,$1.0 billion,$435 million,Dec-17
-Home24,Exited,--,Sep-16
-Dianping,Exited,--,Oct-15
-Spotify,Exited,--,Apr-18
-Dropbox,Exited,--,Mar-18
-Fab,Exited,--,Mar-15
-Gilt Groupe,Exited,--,Jan-16
-Good Technology,Exited,--,Sep-15
-Jawbone,Exited,--,Jul-17
-Legendary Entertainment,Exited,--,Jan-16
-MongoDB,Exited,--,Oct-17
-Pure Storage,Exited,--,Oct-15
-Snap,Exited,--,Mar-17
-Square,Exited,--,Nov-15
-Cloudera,Exited,--,Apr-17
-Jasper Technologies,Exited,--,Feb-16
-Sunrun,Exited,--,Aug-15
-Kabam,Exited,--,Dec-16
-Nutanix,Exited,--,Sep-16
-AppDynamics,Exited,--,Jan-17
-Delivery Hero,Exited,--,Jun-17
-Powa,Exited,--,Mar-16
-Shopify,Exited,--,May-15
-Beats Electronics,Exited,--,Aug-14
-Box,Exited,--,Jan-15
-Coupons.com,Exited,--,Mar-14
-Fisker Automotive,Exited,--,Mar-14
-Hanhua Financial,Exited,--,Jun-14
-GoPro,Exited,--,Jun-14
-Hortonworks,Exited,--,Nov-14
-JD.com,Exited,--,May-14
-LaShou,Exited,--,Nov-14
-Lending Club,Exited,--,Dec-14
-Meituan,Exited,--,Oct-15
-Mobileye,Exited,--,Aug-14
-Nest Labs,Exited,--,Feb-14
-New Relic,Exited,--,Dec-14
-Rocket Internet,Exited,--,Oct-14
-Wayfair,Exited,--,Oct-14
-Zalando,Exited,--,Oct-14
-Kuaidi Dache,Exited,--,Apr-15
-SimpliVity,Exited,--,Jan-17
-MuleSoft,Exited,--,Mar-17
-Lazada Group,Exited,--,Apr-16
-Coupa Software,Exited,--,Oct-16
-Blue Apron,Exited,--,Jun-17
-Twilio,Exited,--,Jun-16
-Okta,Exited,--,Apr-17
-Stemcentrx,Exited,--,Apr-16
-Jet.com,Exited,--,Aug-16
-China Rapid Finance,Exited,--,Apr-17
-Mode Media,Exited,--,Sep-16
-UCar,Exited,--,Jul-16
-UberChina,Exited,--,Aug-16
+lookup_name,proper_name,latest_valuation,total_equity_funding,ownership_pct,board_member,last_valuation_date,crunchbase_link
+uber,Uber,$68.0 billion,$12.9 billion,0.09,Jane Doe,16-Jun,https://www.crunchbase.com/organization/uber
+didi chuxing,Didi Chuxing,$56.0 billion,$19.2 billion,0.13,John Snow,17-Dec,https://www.crunchbase.com/organization/didi-dache
+xiaomi,Xiaomi,$46.0 billion,$1.4 billion,0.04,John Snow,14-Dec,https://www.crunchbase.com/organization/xiaomi
+airbnb,Airbnb,$31.0 billion,$3.3 billion,0.2,John Smith,17-Mar,https://www.crunchbase.com/organization/airbnb
+meituan-dianping,Meituan-Dianping,$30.0 billion,$8.4 billion,0.15,Jane Sand,17-Oct,https://www.crunchbase.com/organization/meituan-com
+spacex,SpaceX,$21.0 billion,$1.5 billion,0.19,Jane Sand,17-Jul,https://www.crunchbase.com/organization/space-exploration-technologies
+wework,WeWork,$20.2 billion,$4.4 billion,0.24,John Smith,17-Jul,https://www.crunchbase.com/organization/wework
+palantir,Palantir,$20.0 billion,$1.9 billion,0.03,John Smith,15-Oct,https://www.crunchbase.com/organization/palantir-technologies
+lufax,Lufax,$18.5 billion,$1.7 billion,0.2,Jane Doe,15-Dec,https://www.crunchbase.com/organization/lufax
+pinterest,Pinterest,$12.3 billion,$1.5 billion,0.1,Jane Sand,17-Jun,https://www.crunchbase.com/organization/pinterest
+flipkart,Flipkart,$11.6 billion,$5.9 billion,0.05,John Smith,17-Aug,https://www.crunchbase.com/organization/flipkart
+lyft,Lyft,$11.5 billion,$4.1 billion,0.02,Jane Doe,17-Dec,https://www.crunchbase.com/organization/lyft
+dji,DJI,$10.0 billion,$576 million,0.23,Jane Doe,16-Sep,https://www.crunchbase.com/organization/dji
+stripe,Stripe,$9.2 billion,$460 million,0.19,Jane Doe,16-Nov,https://www.crunchbase.com/organization/stripe
+theranos,Theranos,$9.0 billion,$750 million,0.21,Jane Sand,14-Feb,https://www.crunchbase.com/organization/theranos
+zhong an online,Zhong An Online,$8.0 billion,$934 million,0.09,John Snow,15-Jun,https://www.crunchbase.com/organization/zhongan
+paytm,PayTm (One97 Communications),$7.0 billion,$1.8 billion,0.12,John Smith,17-May,https://www.crunchbase.com/organization/paytm
+snapdeal,Snapdeal,$6.5 billion,$1.7 billion,0.11,John Smith,16-Feb,https://www.crunchbase.com/organization/snapdeal
+grabtaxi,Grabtaxi,$6.0 billion,$4.1 billion,0.03,John Smith,17-Jul,https://www.crunchbase.com/organization/grabtaxi
+ele.me,Ele.me,$6.0 billion,$3.2 billion,0.13,Jane Sand,17-Jun,https://www.crunchbase.com/organization/ele-me
+magic leap,Magic Leap,$6.0 billion,$1.9 billion,0.13,John Snow,17-Oct,https://www.crunchbase.com/organization/magic-leap
+outcome health,Outcome Health,$5.5 billion,$500 million,0.25,Jane Doe,17-May,https://www.crunchbase.com/organization/outcomehealth
+slack,Slack,$5.1 billion,$765 million,0.17,John Snow,17-Sep,https://www.crunchbase.com/organization/slack
+moderna,Moderna,$4.7 billion,$1.2 billion,0.18,Jane Sand,16-Aug,https://www.crunchbase.com/organization/moderna-therapeutics
+fanatics,Fanatics,$4.5 billion,$1.6 billion,0.05,John Smith,17-Aug,https://www.crunchbase.com/organization/fanatics
+greensky,GreenSky,$4.5 billion,$600 million,0.04,Jane Sand,18-Jan,https://www.crunchbase.com/organization/greensky
+wish,Wish (ContextLogic),$4.3 billion,$1.1 billion,0.05,John Smith,16-Nov,https://www.crunchbase.com/organization/wish
+sea,Sea,$4.3 billion,$1.1 billion,0.09,Jane Doe,17-May,https://www.crunchbase.com/organization/garena
+instacart,Instacart,$4.2 billion,$875 million,0.16,Jane Doe,18-Feb,https://www.crunchbase.com/organization/instacart
+houzz,Houzz,$4.0 billion,$615 million,0.24,John Snow,17-Jun,https://www.crunchbase.com/organization/houzz
+sofi,SoFi (Social Finance),$4.0 billion,$1.4 billion,0.04,Jane Doe,15-Aug,https://www.crunchbase.com/organization/social-finance
+intarcia therapeutics,Intarcia Therapeutics,$3.7 billion,$813 million,0.05,John Smith,16-Sep,https://www.crunchbase.com/organization/intarcia-therapeutics
+credit karma,Credit Karma,$3.5 billion,$369 million,0.21,John Smith,15-Jun,https://www.crunchbase.com/organization/credit-karma
+ola cabs,Ola Cabs (ANI Technologies),$3.5 billion,$1.9 billion,0.24,Jane Sand,17-Feb,https://www.crunchbase.com/organization/ola
+tanium,Tanium,$3.5 billion,$304 million,0.03,John Smith,15-Aug,https://www.crunchbase.com/organization/tanium
+lesports,LeSports,$3.4 billion,$1.4 billion,0.17,John Snow,16-Mar,https://www.crunchbase.com/organization/le-sports
+vancl,VANCL,$3.0 billion,$512 million,0.07,Jane Sand,11-Dec,https://www.crunchbase.com/organization/vancl
+docusign,DocuSign,$3.0 billion,$515 million,0.01,John Snow,15-Apr,https://www.crunchbase.com/organization/docusign
+katerra,Katerra,$3.0 billion,$1.1 billion,0.16,John Snow,18-Jan,https://www.crunchbase.com/organization/katerra
+bloom energy,Bloom Energy,$2.9 billion,$1.2 billion,0.21,Jane Doe,11-Sep,https://www.crunchbase.com/organization/bloom-energy
+unity technologies,Unity Technologies,$2.8 billion,$449 million,0.17,Jane Sand,17-May,https://www.crunchbase.com/organization/unity-technologies
+oscar health insurance,Oscar Health Insurance,$2.7 billion,$753 million,0.23,John Smith,16-Feb,https://www.crunchbase.com/organization/oscar
+auto1 group,Auto1 Group,$2.7 billion,$504 million,0.05,John Snow,16-Dec,https://www.crunchbase.com/organization/auto1-group
+qualtrics,Qualtrics,$2.5 billion,$400 million,0.02,John Snow,17-Apr,https://www.crunchbase.com/organization/qualtrics
+inmobi,InMobi,$2.5 billion,$216 million,0.03,Jane Sand,14-Dec,https://www.crunchbase.com/organization/inmobi
+oneweb,OneWeb,$2.5 billion,$1.7 billion,0.13,John Smith,16-Dec,https://www.crunchbase.com/organization/oneweb
+mozido,Mozido,$2.4 billion,$268 million,0.13,Jane Doe,14-Oct,https://www.crunchbase.com/organization/mozido
+adyen,Adyen,$2.3 billion,$266 million,0.04,Jane Doe,15-Sep,https://www.crunchbase.com/organization/adyen
+domo,Domo,$2.3 billion,$689 million,0.11,Jane Sand,17-Apr,https://www.crunchbase.com/organization/domo
+hellofresh,HelloFresh,$2.2 billion,$367 million,0.03,John Smith,16-Dec,https://www.crunchbase.com/organization/hellofresh
+trendy group,Trendy Group,$2.0 billion,$200 million,0.15,John Snow,12-Feb,https://www.crunchbase.com/organization/trendy-international-group
+razer,Razer,$2.0 billion,$200 million,0.15,John Smith,17-May,https://www.crunchbase.com/organization/razer
+coupang,Coupang,$2.0 billion,$1.4 billion,0.17,Jane Doe,15-Jun,https://www.crunchbase.com/organization/coupang
+zenefits,Zenefits (YourPeople),$2.0 billion,$596 million,0.23,John Snow,16-Jun,https://www.crunchbase.com/organization/zenefits
+github,Github,$2.0 billion,$350 million,0.05,John Smith,15-Jul,https://www.crunchbase.com/organization/github
+avant,Avant,$2.0 billion,$659 million,0.14,Jane Doe,15-Oct,https://www.crunchbase.com/organization/avant-credit
+uptake,Uptake,$2.0 billion,$135 million,0.21,John Snow,17-Feb,https://www.crunchbase.com/organization/uptake-3
+microvast,Microvast,$2.0 billion,$450 million,0.02,John Snow,17-Apr,https://www.crunchbase.com/organization/microvast
+prosper marketplace,Prosper Marketplace,$1.9 billion,$360 million,0.18,John Snow,15-Apr,https://www.crunchbase.com/organization/prosper
+wepiao,WePiao,$1.9 billion,$811 million,0.06,John Snow,16-Apr,https://www.crunchbase.com/organization/beijing-weiying-technology
+sprinklr,Sprinklr,$1.8 billion,$275 million,0.04,Jane Sand,16-Jul,https://www.crunchbase.com/organization/sprinklr
+zocdoc,ZocDoc,$1.8 billion,$226 million,0.04,Jane Doe,15-Aug,https://www.crunchbase.com/organization/zocdoc
+appnexus,AppNexus,$1.8 billion,$251 million,0.13,John Snow,15-Apr,https://www.crunchbase.com/organization/appnexus
+quora,Quora,$1.8 billion,$226 million,0.09,Jane Sand,17-Apr,https://www.crunchbase.com/organization/quora
+reddit,Reddit,$1.8 billion,$250 million,0.07,John Snow,17-Jul,https://www.crunchbase.com/organization/reddit
+affirm,Affirm,$1.8 billion,$200 million,0.14,Jane Doe,17-Nov,https://www.crunchbase.com/organization/affirm
+honest co,Honest Co.,$1.7 billion,$222 million,0.17,John Smith,15-Aug,https://www.crunchbase.com/organization/the-honest-company
+buzzfeed,BuzzFeed,$1.7 billion,$497 million,0.21,John Snow,16-Nov,https://www.crunchbase.com/organization/buzzfeed
+23andme,23andMe,$1.7 billion,$491 million,0.19,John Snow,17-Sep,https://www.crunchbase.com/organization/23andme
+discord,Discord,$1.6 billion,$152 million,0.08,John Smith,18-Apr,https://www.crunchbase.com/organization/discord
+lakala.com,Lakala.com,$1.6 billion,$273 million,0.13,Jane Sand,15-Jun,https://www.crunchbase.com/organization/lakala
+jetsmarter,JetSmarter,$1.6 billion,$157 million,0.11,Jane Sand,16-Dec,https://www.crunchbase.com/organization/jetsmarter
+afiniti,Afiniti,$1.6 billion,$122 million,0.25,Jane Sand,17-Apr,https://www.crunchbase.com/organization/afiniti
+curevac,CureVac,$1.6 billion,$382 million,0.2,Jane Doe,16-Nov,https://www.crunchbase.com/organization/curevac
+oxford nanopore,Oxford Nanopore,$1.6 billion,$471 million,0.06,Jane Doe,16-Dec,https://www.crunchbase.com/organization/university-of-oxford
+quanergy,Quanergy,$1.6 billion,$150 million,0.02,John Smith,16-Aug,https://www.crunchbase.com/organization/quanergy
+zoox,Zoox,$1.6 billion,$302 million,0.03,John Snow,16-Nov,https://www.crunchbase.com/organization/zoox
+insidesales.com,InsideSales.com,$1.5 billion,N/A,0.05,John Snow,17-Jan,https://www.crunchbase.com/organization/insidesales-com
+koudai shopping,Koudai Shopping,$1.5 billion,$364 million,0.17,John Snow,14-Oct,https://www.crunchbase.com/organization/koudai
+farfetch,Farfetch,$1.5 billion,$700 million,0.25,Jane Sand,17-Jun,https://www.crunchbase.com/organization/farfetch
+blablacar,BlaBlaCar,$1.5 billion,$312 million,0.11,Jane Doe,15-Jul,https://www.crunchbase.com/organization/blablacar
+mu sigma,Mu Sigma,$1.5 billion,$195 million,0.11,John Smith,13-Feb,https://www.crunchbase.com/organization/mu-sigma
+guahao.com,Guahao.com,$1.5 billion,$509 million,0.15,John Snow,15-Sep,https://www.crunchbase.com/organization/guahao
+klarna,Klarna,$1.4 billion,$299 million,0.05,John Snow,14-Mar,https://www.crunchbase.com/organization/klarna
+hike,Hike,$1.4 billion,$260 million,0.1,John Snow,16-Aug,https://www.crunchbase.com/organization/hike
+c3 iot,C3 IoT,$1.4 billion,$111 million,0.23,Jane Doe,17-Mar,https://www.crunchbase.com/organization/c3
+avidxchange,AvidXchange,$1.4 billion,$558 million,0.16,John Snow,17-Jun,https://www.crunchbase.com/organization/avidxchange
+deem,Deem,$1.4 billion,$474 million,0.12,Jane Sand,11-Sep,https://www.crunchbase.com/organization/deem
+apttus,Apttus,$1.4 billion,$329 million,0.13,Jane Sand,17-Sep,https://www.crunchbase.com/organization/apttus
+thumbtack,Thumbtack,$1.3 billion,$273 million,0.09,Jane Doe,15-Sep,https://www.crunchbase.com/organization/thumbtack
+robinhood,Robinhood,$1.3 billion,$176 million,0.15,John Snow,17-Mar,https://www.crunchbase.com/organization/analyst
+ticket monster,Ticket Monster,$1.3 billion,$471 million,0.11,John Smith,17-Apr,https://www.crunchbase.com/organization/ticket-monster
+rubrik,Rubrik,$1.3 billion,$292 million,0.08,Jane Sand,17-Apr,https://www.crunchbase.com/organization/rubrik
+zeta global,Zeta Global,$1.3 billion,$310 million,0.06,Jane Doe,17-Apr,https://www.crunchbase.com/organization/zeta-interactive
+fanduel,FanDuel,$1.3 billion,$363 million,0.14,John Smith,15-Jul,https://www.crunchbase.com/organization/fanduel
+medallia,Medallia,$1.3 billion,$255 million,0.04,John Snow,15-Jul,https://www.crunchbase.com/organization/medallia
+kabbage,Kabbage,$1.3 billion,$490 million,0.1,John Smith,17-Aug,https://www.crunchbase.com/organization/kabbage
+peloton,Peloton,$1.3 billion,$444 million,0.1,Jane Sand,17-May,https://www.crunchbase.com/organization/peloton-interactive
+infinidat,Infinidat,$1.2 billion,$230 million,0.08,John Snow,15-Apr,https://www.crunchbase.com/organization/infinidat
+warby parker,Warby Parker,$1.2 billion,$218 million,0.07,John Snow,15-Apr,https://www.crunchbase.com/organization/warby-parker
+clover health,Clover Health,$1.2 billion,$425 million,0.04,John Snow,17-May,https://www.crunchbase.com/organization/clover
+offerup,OfferUp,$1.2 billion,$200 million,0.13,Jane Doe,16-Aug,https://www.crunchbase.com/organization/offerup
+automattic,Automattic,$1.2 billion,$190 million,0.25,John Smith,14-May,https://www.crunchbase.com/organization/automattic
+global fashion group,Global Fashion Group,$1.1 billion,$1.5 billion,0.2,Jane Sand,16-Apr,https://www.crunchbase.com/organization/global-fashion-group
+actifio,Actifio,$1.1 billion,$208 million,0.12,Jane Sand,14-Mar,https://www.crunchbase.com/organization/actifio
+proteus digital health,Proteus Digital Health,$1.1 billion,$354 million,0.14,John Smith,14-Jun,https://www.crunchbase.com/organization/proteus-biomedical
+ironsource,IronSource,$1.1 billion,$103 million,0.07,John Snow,14-Aug,https://www.crunchbase.com/organization/ironsource
+nextdoor,Nextdoor,$1.1 billion,$215 million,0.14,Jane Doe,15-Mar,https://www.crunchbase.com/organization/nextdoor
+shopclues.com,Shopclues.com,$1.1 billion,$468 million,0.12,Jane Doe,16-Jan,https://www.crunchbase.com/organization/shopclues-com
+transferwise,TransferWise,$1.1 billion,$117 million,0.1,John Snow,16-May,https://www.crunchbase.com/organization/transferwise
+cylance,Cylance,$1.1 billion,$177 million,0.12,Jane Sand,16-Jun,https://www.crunchbase.com/organization/cylance
+opendoor,OpenDoor,$1.1 billion,$320 million,0.04,Jane Sand,16-Nov,https://www.crunchbase.com/organization/opendoor-2
+view,View,$1.1 billion,$644 million,0.22,Jane Sand,17-Feb,https://www.crunchbase.com/organization/view-inc
+anaplan,Anaplan,$1.1 billion,$240 million,0.02,John Snow,16-Jan,https://www.crunchbase.com/organization/anaplan
+deliveroo,Deliveroo,$1.1 billion,$473 million,0.09,Jane Sand,16-Aug,https://www.crunchbase.com/organization/deliveroo
+carbon,Carbon,$1.1 billion,$222 million,0.22,Jane Doe,16-Sep,https://www.crunchbase.com/organization/carbon3d
+gusto (zenpayroll),Gusto (ZenPayroll),$1.1 billion,$136 million,0.22,Jane Sand,15-Dec,https://www.crunchbase.com/organization/gusto
+jiuxian,Jiuxian,$1.1 billion,$250 million,0.25,John Smith,15-Jul,https://www.crunchbase.com/organization/winebibber
+aiwujiwu,Aiwujiwu,$1.1 billion,$305 million,0.18,John Snow,15-Nov,https://www.crunchbase.com/organization/iwjw-iwjw
+appdirect,AppDirect,$1.0 billion,$245 million,0.21,John Snow,15-Oct,https://www.crunchbase.com/organization/appdirect
+yello mobile,Yello Mobile,$1.0 billion,$112 million,0.21,John Smith,14-Dec,https://www.crunchbase.com/organization/yello-mobile
+cloudflare,CloudFlare,$1.0 billion,$72 million,0.16,John Snow,12-Dec,https://www.crunchbase.com/organization/cloudflare
+evernote,Evernote,$1.0 billion,$302 million,0.19,Jane Doe,12-May,https://www.crunchbase.com/organization/evernote
+eventbrite,Eventbrite,$1.0 billion,$200 million,0.25,John Smith,14-Mar,https://www.crunchbase.com/organization/eventbrite
+tango,Tango,$1.0 billion,$367 million,0.13,John Smith,14-Mar,https://www.crunchbase.com/organization/tango-2
+mogujie,Mogujie,$1.0 billion,$200 million,0.22,John Smith,14-Jun,https://www.crunchbase.com/organization/mogujie
+lookout,Lookout,$1.0 billion,$284 million,0.19,Jane Doe,14-Aug,https://www.crunchbase.com/organization/lookout
+justfab,JustFab,$1.0 billion,$250 million,0.22,Jane Doe,14-Aug,https://www.crunchbase.com/organization/justfabulous
+shazam,Shazam,$1.0 billion,$170 million,0.15,John Smith,15-Jan,https://www.crunchbase.com/organization/shazam
+beibei,Beibei,$1.0 billion,$124 million,0.19,John Snow,15-Jan,https://www.crunchbase.com/organization/beibei
+pluralsight,Pluralsight,$1.0 billion,$169 million,0.08,John Snow,14-Aug,https://www.crunchbase.com/organization/pluralsight
+funding circle,Funding Circle,$1.0 billion,$273 million,0.04,Jane Sand,15-Apr,https://www.crunchbase.com/organization/funding-circle
+quikr,Quikr,$1.0 billion,$350 million,0.19,Jane Sand,14-Sep,https://www.crunchbase.com/organization/quikr-india
+marklogic,MarkLogic,$1.0 billion,$173 million,0.15,Jane Sand,15-Apr,https://www.crunchbase.com/organization/marklogic
+lamabang,Lamabang,$1.0 billion,$120 million,0.25,John Smith,15-Mar,https://www.crunchbase.com/organization/lamabang
+zomato media,Zomato Media,$1.0 billion,$163 million,0.03,Jane Sand,15-Mar,https://www.crunchbase.com/organization/zomato
+draftkings,DraftKings,$1.0 billion,$526 million,0.22,Jane Doe,17-Mar,https://www.crunchbase.com/organization/draftkings
+zscaler,Zscaler,$1.0 billion,$138 million,0.2,Jane Sand,15-Jul,https://www.crunchbase.com/organization/zscaler
+tujia,Tujia,$1.0 billion,$465 million,0.12,John Snow,15-Aug,https://www.crunchbase.com/organization/tujia
+apus group,APUS Group,$1.0 billion,$116 million,0.16,Jane Sand,15-Jan,https://www.crunchbase.com/organization/apus
+vox media,Vox Media,$1.0 billion,$126 million,0.2,John Smith,15-Aug,https://www.crunchbase.com/organization/vox-media
+kik interactive,Kik Interactive,$1.0 billion,$119 million,0.03,Jane Sand,15-Aug,https://www.crunchbase.com/organization/kik-interactive
+adaptive biotechnologies,Adaptive Biotechnologies,$1.0 billion,$425 million,0.08,John Smith,15-May,https://www.crunchbase.com/organization/adaptive-biotechnologies
+datto,Datto,$1.0 billion,$100 million,0.24,John Snow,15-Nov,https://www.crunchbase.com/organization/datto
+udacity,Udacity,$1.0 billion,$161 million,0.12,John Snow,15-Nov,https://www.crunchbase.com/organization/udacity
+tutorgroup,TutorGroup,$1.0 billion,$315 million,0.17,Jane Sand,15-Nov,https://www.crunchbase.com/organization/tutorgroup
+mia.com,Mia.com,$1.0 billion,$232 million,0.12,Jane Sand,15-Sep,https://www.crunchbase.com/organization/mia-com
+docker,Docker,$1.0 billion,$182 million,0.04,Jane Doe,15-Apr,https://www.crunchbase.com/organization/docker
+wifimaster,Wifimaster,$1.0 billion,$52 million,0.17,John Smith,15-Mar,https://www.crunchbase.com/organization/wifi-skeleton-key
+panshi,Panshi,$1.0 billion,$220 million,0.22,Jane Doe,15-Apr,https://www.crunchbase.com/organization/panshi
+avast software,Avast Software,$1.0 billion,$100 million,0.23,John Snow,14-Feb,https://www.crunchbase.com/organization/avast
+fanli,Fanli,$1.0 billion,$30 million,0.04,Jane Doe,15-Apr,https://www.crunchbase.com/organization/fanli-website
+forescout,ForeScout,$1.0 billion,$156 million,0.15,John Snow,16-Jan,https://www.crunchbase.com/organization/forescout
+sms assist,SMS Assist,$1.0 billion,$255 million,0.13,Jane Sand,16-Jun,https://www.crunchbase.com/organization/sms-assist
+liepin.com,Liepin.com,$1.0 billion,$187 million,0.08,John Snow,16-Jun,https://www.crunchbase.com/organization/liepin-com
+mofang apartments,Mofang Apartments,$1.0 billion,$500 million,0.18,Jane Sand,16-Apr,https://www.crunchbase.com/organization/mofang-gongyu
+africa internet group,Africa Internet Group,$1.0 billion,$469 million,0.13,John Smith,16-Mar,https://www.crunchbase.com/organization/jumia-group
+compass,Compass,$1.0 billion,$210 million,0.13,Jane Doe,16-Aug,https://www.crunchbase.com/organization/compassinc
+procore,Procore,$1.0 billion,$143 million,0.14,Jane Doe,16-Dec,https://www.crunchbase.com/organization/procore-technologies
+careem,Careem,$1.0 billion,$422 million,0.19,John Smith,16-Dec,https://www.crunchbase.com/organization/careem
+huochebang,Huochebang,$1.0 billion,$150 million,0.01,Jane Sand,16-Dec,https://www.crunchbase.com/organization/huochebang
+zoom video,Zoom Video,$1.0 billion,$143 million,0.08,Jane Doe,17-Jan,https://www.crunchbase.com/organization/zoom-video-communications
+rocket lab,Rocket Lab,$1.0 billion,$75 million,0.1,Jane Doe,17-Mar,https://www.crunchbase.com/organization/rocket-lab
+crowdstrike,CrowdStrike,$1.0 billion,$256 million,0.22,Jane Sand,17-May,https://www.crunchbase.com/organization/crowdstrike
+symphony,Symphony,$1.0 billion,$229 million,0.25,John Smith,17-May,https://www.crunchbase.com/organization/symphony-3
+yuanfudao,Yuanfudao,$1.0 billion,$120 million,0.11,John Snow,17-May,https://www.crunchbase.com/organization/yuanfudao
+cybereason,Cybereason,$1.0 billion,$189 million,0.02,John Snow,17-Jun,https://www.crunchbase.com/organization/cybereason
+decolar.com,Decolar.com,$1.0 billion,$291 million,0.21,Jane Sand,15-Mar,https://www.crunchbase.com/organization/decolar-com
+age of learning,Age of Learning,$1.0 billion,$182 million,0.08,Jane Sand,15-May,https://www.crunchbase.com/organization/age-of-learning
+ginkgo bioworks,Ginkgo Bioworks,$1.0 billion,$435 million,0.07,John Smith,17-Dec,https://www.crunchbase.com/organization/ginkgo-bioworks

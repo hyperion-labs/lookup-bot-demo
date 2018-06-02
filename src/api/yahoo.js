@@ -8,7 +8,7 @@ const uri = 'https://query1.finance.yahoo.com/v7/finance';
 
 /* api ==================================================================== */
 
-const getSummaryInfo = (response) => {
+const getTickerInfo = (response) => {
   const firstResult = response.data.quoteResponse.result[0];
   const stockData = {
     name: firstResult.shortName,
@@ -35,7 +35,7 @@ const requestTickerInfo = (ticker) => {
 
 const requestTickerInfoNoReject = ticker => new Promise((resolve) => {
   requestTickerInfo(ticker)
-    .then(response => resolve(getSummaryInfo(response)))
+    .then(response => resolve(getTickerInfo(response)))
     .catch(() => resolve(null));
 });
 
@@ -44,5 +44,5 @@ const requestTickerInfoNoReject = ticker => new Promise((resolve) => {
 module.exports = {
   requestTickerInfo,
   requestTickerInfoNoReject,
-  getSummaryInfo,
+  getTickerInfo,
 };

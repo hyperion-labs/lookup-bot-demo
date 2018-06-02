@@ -13,6 +13,32 @@ const yahooApi = require('./src/api/yahoo');
 const twilioApi = require('./src/api/twilio');
 const search = require('./src/search');
 
+/* Utils ==================================================================== */
+
+const sendTicker = (tickerObj, response) => {
+  const {
+    name,
+    ticker,
+    price,
+    marketCap,
+    fwdPe,
+    yahooUrl,
+  } = tickerObj;
+  const msg = `${name} (${ticker})\nLast: $${numeral(price).format('0,0.00')}\nMarketCap: $${numeral(marketCap).format('0.0a')}\nFwd P/E: ${numeral(fwdPe).format('0.0')}x ${yahooUrl}`;
+  response.status(200).send(msg);
+};
+
+const sendUnicorn = (name, response) => {
+  const unicornObj = search.unicornJSON[name];
+
+  const msg = `${unicornObj.proper_name}\nLast Val: ${unicornObj.latest_valuation}\nTotal Raised: ${unicornObj.total_equity_funding}\nLast Val Date: ${unicornObj.last_valuation_date}\nOwnership %: ${unicornObj.ownership_pct}\nBoard Member: ${unicornObj.board_member}`;
+  response.status(200).send(msg);
+};
+
+const sendUnicornList = () => {
+
+}
+
 /* Server ==================================================================== */
 
 // create server
@@ -39,17 +65,19 @@ app.get('/quote', (req, res) => {
     ]).then((response) => {
       const resultsTicker = response[0];
       const resultsUnicorns = response[1];
+
+      console.log(resultsUnicorns);
       let results = [];
 
       // happy: only ticker
-      if (resultsTicker && !resultsUnicorns) results = resultsTicker;
+      if (resultsTicker && !resultsUnicorns) sendTicker(resultsTicker, res);
 
       // happy: only 1 unicorn
       else if (
         resultsUnicorns
         && resultsUnicorns.length === 1
         && !resultsTicker
-      ) results = resultsUnicorns;
+      ) sendUnicorn(resultsUnicorns[0], res);
 
       // multiple unicorn search, whether ticker exists or not:
       else if (
@@ -64,16 +92,17 @@ app.get('/quote', (req, res) => {
         && resultsUnicorns
         && resultsUnicorns.length === 1
       ) {
+        console.log(`${request} vs. ${resultsUnicorns[0]}`)
         if (request === resultsUnicorns[0]) {
           console.log('request and unicorn result are same');
-          results = resultsUnicorns;
+          sendUnicorn(resultsUnicorns[0], res);
         } else {
           console.log('request and unicorn are not the same');
-          results = resultsTicker;
+          sendTicker(resultsTicker, res);
         }
       }
 
-      res.send(results);
+      //res.send(results);
     })
       .catch((err) => {
         console.log('ERROR!!');
@@ -96,7 +125,7 @@ app.post('/sms', (req, res) => {
       if (responseYahoo.status !== 200) {
         throw new Error(`No stock found for ticker ${Body}`);
       } else {
-        const findingsObj = yahooApi.getSummaryInfo(responseYahoo);
+        const findingsObj = yahooApi.getTickerInfo(responseYahoo);
         const {
           name,
           ticker,

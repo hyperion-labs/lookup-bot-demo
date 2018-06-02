@@ -1,1117 +1,1532 @@
 {
-   "Uber": {
+   "uber": {
+      "proper_name": "Uber",
       "latest_valuation": "$68.0 billion",
       "total_equity_funding": "$12.9 billion",
-      "last_valuation_date": "Jun-16"
+      "ownership_pct": 0.09,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "16-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/uber"
    },
-   "Didi Chuxing": {
+   "didi chuxing": {
+      "proper_name": "Didi Chuxing",
       "latest_valuation": "$56.0 billion",
       "total_equity_funding": "$19.2 billion",
-      "last_valuation_date": "Dec-17"
+      "ownership_pct": 0.13,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/didi-dache"
    },
-   "Xiaomi": {
+   "xiaomi": {
+      "proper_name": "Xiaomi",
       "latest_valuation": "$46.0 billion",
       "total_equity_funding": "$1.4 billion",
-      "last_valuation_date": "Dec-14"
+      "ownership_pct": 0.04,
+      "board_member": "John Snow",
+      "last_valuation_date": "14-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/xiaomi"
    },
-   "Airbnb": {
+   "airbnb": {
+      "proper_name": "Airbnb",
       "latest_valuation": "$31.0 billion",
       "total_equity_funding": "$3.3 billion",
-      "last_valuation_date": "Mar-17"
+      "ownership_pct": 0.2,
+      "board_member": "John Smith",
+      "last_valuation_date": "17-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/airbnb"
    },
-   "Meituan-Dianping": {
+   "meituan-dianping": {
+      "proper_name": "Meituan-Dianping",
       "latest_valuation": "$30.0 billion",
       "total_equity_funding": "$8.4 billion",
-      "last_valuation_date": "Oct-17"
+      "ownership_pct": 0.15,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-Oct",
+      "crunchbase_link": "https://www.crunchbase.com/organization/meituan-com"
    },
-   "SpaceX": {
+   "spacex": {
+      "proper_name": "SpaceX",
       "latest_valuation": "$21.0 billion",
       "total_equity_funding": "$1.5 billion",
-      "last_valuation_date": "Jul-17"
+      "ownership_pct": 0.19,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-Jul",
+      "crunchbase_link": "https://www.crunchbase.com/organization/space-exploration-technologies"
    },
-   "WeWork": {
+   "wework": {
+      "proper_name": "WeWork",
       "latest_valuation": "$20.2 billion",
       "total_equity_funding": "$4.4 billion",
-      "last_valuation_date": "Jul-17"
+      "ownership_pct": 0.24,
+      "board_member": "John Smith",
+      "last_valuation_date": "17-Jul",
+      "crunchbase_link": "https://www.crunchbase.com/organization/wework"
    },
-   "Palantir": {
+   "palantir": {
+      "proper_name": "Palantir",
       "latest_valuation": "$20.0 billion",
       "total_equity_funding": "$1.9 billion",
-      "last_valuation_date": "Oct-15"
+      "ownership_pct": 0.03,
+      "board_member": "John Smith",
+      "last_valuation_date": "15-Oct",
+      "crunchbase_link": "https://www.crunchbase.com/organization/palantir-technologies"
    },
-   "Lufax": {
+   "lufax": {
+      "proper_name": "Lufax",
       "latest_valuation": "$18.5 billion",
       "total_equity_funding": "$1.7 billion",
-      "last_valuation_date": "Dec-15"
+      "ownership_pct": 0.2,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "15-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/lufax"
    },
-   "Pinterest": {
+   "pinterest": {
+      "proper_name": "Pinterest",
       "latest_valuation": "$12.3 billion",
       "total_equity_funding": "$1.5 billion",
-      "last_valuation_date": "Jun-17"
+      "ownership_pct": 0.1,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/pinterest"
    },
-   "Flipkart": {
+   "flipkart": {
+      "proper_name": "Flipkart",
       "latest_valuation": "$11.6 billion",
       "total_equity_funding": "$5.9 billion",
-      "last_valuation_date": "Aug-17"
+      "ownership_pct": 0.05,
+      "board_member": "John Smith",
+      "last_valuation_date": "17-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/flipkart"
    },
-   "Lyft": {
+   "lyft": {
+      "proper_name": "Lyft",
       "latest_valuation": "$11.5 billion",
       "total_equity_funding": "$4.1 billion",
-      "last_valuation_date": "Dec-17"
+      "ownership_pct": 0.02,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "17-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/lyft"
    },
-   "DJI": {
+   "dji": {
+      "proper_name": "DJI",
       "latest_valuation": "$10.0 billion",
       "total_equity_funding": "$576 million",
-      "last_valuation_date": "Sep-16"
+      "ownership_pct": 0.23,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "16-Sep",
+      "crunchbase_link": "https://www.crunchbase.com/organization/dji"
    },
-   "Stripe": {
+   "stripe": {
+      "proper_name": "Stripe",
       "latest_valuation": "$9.2 billion",
       "total_equity_funding": "$460 million",
-      "last_valuation_date": "Nov-16"
+      "ownership_pct": 0.19,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "16-Nov",
+      "crunchbase_link": "https://www.crunchbase.com/organization/stripe"
    },
-   "Theranos": {
+   "theranos": {
+      "proper_name": "Theranos",
       "latest_valuation": "$9.0 billion",
       "total_equity_funding": "$750 million",
-      "last_valuation_date": "Feb-14"
+      "ownership_pct": 0.21,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "14-Feb",
+      "crunchbase_link": "https://www.crunchbase.com/organization/theranos"
    },
-   "Zhong An Online": {
+   "zhong an online": {
+      "proper_name": "Zhong An Online",
       "latest_valuation": "$8.0 billion",
       "total_equity_funding": "$934 million",
-      "last_valuation_date": "Jun-15"
+      "ownership_pct": 0.09,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/zhongan"
    },
-   "Paytm (One97 Communications)": {
+   "paytm": {
+      "proper_name": "PayTm (One97 Communications)",
       "latest_valuation": "$7.0 billion",
       "total_equity_funding": "$1.8 billion",
-      "last_valuation_date": "May-17"
+      "ownership_pct": 0.12,
+      "board_member": "John Smith",
+      "last_valuation_date": "17-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/paytm"
    },
-   "Snapdeal": {
+   "snapdeal": {
+      "proper_name": "Snapdeal",
       "latest_valuation": "$6.5 billion",
       "total_equity_funding": "$1.7 billion",
-      "last_valuation_date": "Feb-16"
+      "ownership_pct": 0.11,
+      "board_member": "John Smith",
+      "last_valuation_date": "16-Feb",
+      "crunchbase_link": "https://www.crunchbase.com/organization/snapdeal"
    },
-   "Grabtaxi": {
+   "grabtaxi": {
+      "proper_name": "Grabtaxi",
       "latest_valuation": "$6.0 billion",
       "total_equity_funding": "$4.1 billion",
-      "last_valuation_date": "Jul-17"
+      "ownership_pct": 0.03,
+      "board_member": "John Smith",
+      "last_valuation_date": "17-Jul",
+      "crunchbase_link": "https://www.crunchbase.com/organization/grabtaxi"
    },
-   "Ele.me": {
+   "ele.me": {
+      "proper_name": "Ele.me",
       "latest_valuation": "$6.0 billion",
       "total_equity_funding": "$3.2 billion",
-      "last_valuation_date": "Jun-17"
+      "ownership_pct": 0.13,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/ele-me"
    },
-   "Magic Leap": {
+   "magic leap": {
+      "proper_name": "Magic Leap",
       "latest_valuation": "$6.0 billion",
       "total_equity_funding": "$1.9 billion",
-      "last_valuation_date": "Oct-17"
+      "ownership_pct": 0.13,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-Oct",
+      "crunchbase_link": "https://www.crunchbase.com/organization/magic-leap"
    },
-   "Outcome Health": {
+   "outcome health": {
+      "proper_name": "Outcome Health",
       "latest_valuation": "$5.5 billion",
       "total_equity_funding": "$500 million",
-      "last_valuation_date": "May-17"
+      "ownership_pct": 0.25,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "17-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/outcomehealth"
    },
-   "Slack": {
+   "slack": {
+      "proper_name": "Slack",
       "latest_valuation": "$5.1 billion",
       "total_equity_funding": "$765 million",
-      "last_valuation_date": "Sep-17"
+      "ownership_pct": 0.17,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-Sep",
+      "crunchbase_link": "https://www.crunchbase.com/organization/slack"
    },
-   "Moderna": {
+   "moderna": {
+      "proper_name": "Moderna",
       "latest_valuation": "$4.7 billion",
       "total_equity_funding": "$1.2 billion",
-      "last_valuation_date": "Aug-16"
+      "ownership_pct": 0.18,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "16-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/moderna-therapeutics"
    },
-   "Fanatics": {
+   "fanatics": {
+      "proper_name": "Fanatics",
       "latest_valuation": "$4.5 billion",
       "total_equity_funding": "$1.6 billion",
-      "last_valuation_date": "Aug-17"
+      "ownership_pct": 0.05,
+      "board_member": "John Smith",
+      "last_valuation_date": "17-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/fanatics"
    },
-   "GreenSky": {
+   "greensky": {
+      "proper_name": "GreenSky",
       "latest_valuation": "$4.5 billion",
       "total_equity_funding": "$600 million",
-      "last_valuation_date": "Jan-18"
+      "ownership_pct": 0.04,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "18-Jan",
+      "crunchbase_link": "https://www.crunchbase.com/organization/greensky"
    },
-   "Wish (ContextLogic)": {
+   "wish": {
+      "proper_name": "Wish (ContextLogic)",
       "latest_valuation": "$4.3 billion",
       "total_equity_funding": "$1.1 billion",
-      "last_valuation_date": "Nov-16"
+      "ownership_pct": 0.05,
+      "board_member": "John Smith",
+      "last_valuation_date": "16-Nov",
+      "crunchbase_link": "https://www.crunchbase.com/organization/wish"
    },
-   "Sea": {
+   "sea": {
+      "proper_name": "Sea",
       "latest_valuation": "$4.3 billion",
       "total_equity_funding": "$1.1 billion",
-      "last_valuation_date": "May-17"
+      "ownership_pct": 0.09,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "17-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/garena"
    },
-   "Instacart": {
+   "instacart": {
+      "proper_name": "Instacart",
       "latest_valuation": "$4.2 billion",
       "total_equity_funding": "$875 million",
-      "last_valuation_date": "Feb-18"
+      "ownership_pct": 0.16,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "18-Feb",
+      "crunchbase_link": "https://www.crunchbase.com/organization/instacart"
    },
-   "Houzz": {
+   "houzz": {
+      "proper_name": "Houzz",
       "latest_valuation": "$4.0 billion",
       "total_equity_funding": "$615 million",
-      "last_valuation_date": "Jun-17"
+      "ownership_pct": 0.24,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/houzz"
    },
-   "SoFi (Social Finance)": {
+   "sofi": {
+      "proper_name": "SoFi (Social Finance)",
       "latest_valuation": "$4.0 billion",
       "total_equity_funding": "$1.4 billion",
-      "last_valuation_date": "Aug-15"
+      "ownership_pct": 0.04,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "15-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/social-finance"
    },
-   "Intarcia Therapeutics": {
+   "intarcia therapeutics": {
+      "proper_name": "Intarcia Therapeutics",
       "latest_valuation": "$3.7 billion",
       "total_equity_funding": "$813 million",
-      "last_valuation_date": "Sep-16"
+      "ownership_pct": 0.05,
+      "board_member": "John Smith",
+      "last_valuation_date": "16-Sep",
+      "crunchbase_link": "https://www.crunchbase.com/organization/intarcia-therapeutics"
    },
-   "Credit Karma": {
+   "credit karma": {
+      "proper_name": "Credit Karma",
       "latest_valuation": "$3.5 billion",
       "total_equity_funding": "$369 million",
-      "last_valuation_date": "Jun-15"
+      "ownership_pct": 0.21,
+      "board_member": "John Smith",
+      "last_valuation_date": "15-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/credit-karma"
    },
-   "Ola Cabs (ANI Technologies)": {
+   "ola cabs": {
+      "proper_name": "Ola Cabs (ANI Technologies)",
       "latest_valuation": "$3.5 billion",
       "total_equity_funding": "$1.9 billion",
-      "last_valuation_date": "Feb-17"
+      "ownership_pct": 0.24,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-Feb",
+      "crunchbase_link": "https://www.crunchbase.com/organization/ola"
    },
-   "Tanium": {
+   "tanium": {
+      "proper_name": "Tanium",
       "latest_valuation": "$3.5 billion",
       "total_equity_funding": "$304 million",
-      "last_valuation_date": "Aug-15"
+      "ownership_pct": 0.03,
+      "board_member": "John Smith",
+      "last_valuation_date": "15-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/tanium"
    },
-   "LeSports": {
+   "lesports": {
+      "proper_name": "LeSports",
       "latest_valuation": "$3.4 billion",
       "total_equity_funding": "$1.4 billion",
-      "last_valuation_date": "Mar-16"
+      "ownership_pct": 0.17,
+      "board_member": "John Snow",
+      "last_valuation_date": "16-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/le-sports"
    },
-   "VANCL": {
+   "vancl": {
+      "proper_name": "VANCL",
       "latest_valuation": "$3.0 billion",
       "total_equity_funding": "$512 million",
-      "last_valuation_date": "Dec-11"
+      "ownership_pct": 0.07,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "11-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/vancl"
    },
-   "DocuSign": {
+   "docusign": {
+      "proper_name": "DocuSign",
       "latest_valuation": "$3.0 billion",
       "total_equity_funding": "$515 million",
-      "last_valuation_date": "Apr-15"
+      "ownership_pct": 0.01,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/docusign"
    },
-   "Katerra": {
+   "katerra": {
+      "proper_name": "Katerra",
       "latest_valuation": "$3.0 billion",
       "total_equity_funding": "$1.1 billion",
-      "last_valuation_date": "Jan-18"
+      "ownership_pct": 0.16,
+      "board_member": "John Snow",
+      "last_valuation_date": "18-Jan",
+      "crunchbase_link": "https://www.crunchbase.com/organization/katerra"
    },
-   "Bloom Energy": {
+   "bloom energy": {
+      "proper_name": "Bloom Energy",
       "latest_valuation": "$2.9 billion",
       "total_equity_funding": "$1.2 billion",
-      "last_valuation_date": "Sep-11"
+      "ownership_pct": 0.21,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "11-Sep",
+      "crunchbase_link": "https://www.crunchbase.com/organization/bloom-energy"
    },
-   "Unity Technologies": {
+   "unity technologies": {
+      "proper_name": "Unity Technologies",
       "latest_valuation": "$2.8 billion",
       "total_equity_funding": "$449 million",
-      "last_valuation_date": "May-17"
+      "ownership_pct": 0.17,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/unity-technologies"
    },
-   "Oscar Health Insurance": {
+   "oscar health insurance": {
+      "proper_name": "Oscar Health Insurance",
       "latest_valuation": "$2.7 billion",
       "total_equity_funding": "$753 million",
-      "last_valuation_date": "Feb-16"
+      "ownership_pct": 0.23,
+      "board_member": "John Smith",
+      "last_valuation_date": "16-Feb",
+      "crunchbase_link": "https://www.crunchbase.com/organization/oscar"
    },
-   "Auto1 Group": {
+   "auto1 group": {
+      "proper_name": "Auto1 Group",
       "latest_valuation": "$2.7 billion",
       "total_equity_funding": "$504 million",
-      "last_valuation_date": "Dec-16"
+      "ownership_pct": 0.05,
+      "board_member": "John Snow",
+      "last_valuation_date": "16-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/auto1-group"
    },
-   "Qualtrics": {
+   "qualtrics": {
+      "proper_name": "Qualtrics",
       "latest_valuation": "$2.5 billion",
       "total_equity_funding": "$400 million",
-      "last_valuation_date": "Apr-17"
+      "ownership_pct": 0.02,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/qualtrics"
    },
-   "InMobi": {
+   "inmobi": {
+      "proper_name": "InMobi",
       "latest_valuation": "$2.5 billion",
       "total_equity_funding": "$216 million",
-      "last_valuation_date": "Dec-14"
+      "ownership_pct": 0.03,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "14-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/inmobi"
    },
-   "OneWeb": {
+   "oneweb": {
+      "proper_name": "OneWeb",
       "latest_valuation": "$2.5 billion",
       "total_equity_funding": "$1.7 billion",
-      "last_valuation_date": "Dec-16"
+      "ownership_pct": 0.13,
+      "board_member": "John Smith",
+      "last_valuation_date": "16-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/oneweb"
    },
-   "Mozido": {
+   "mozido": {
+      "proper_name": "Mozido",
       "latest_valuation": "$2.4 billion",
       "total_equity_funding": "$268 million",
-      "last_valuation_date": "Oct-14"
+      "ownership_pct": 0.13,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "14-Oct",
+      "crunchbase_link": "https://www.crunchbase.com/organization/mozido"
    },
-   "Adyen": {
+   "adyen": {
+      "proper_name": "Adyen",
       "latest_valuation": "$2.3 billion",
       "total_equity_funding": "$266 million",
-      "last_valuation_date": "Sep-15"
+      "ownership_pct": 0.04,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "15-Sep",
+      "crunchbase_link": "https://www.crunchbase.com/organization/adyen"
    },
-   "Domo": {
+   "domo": {
+      "proper_name": "Domo",
       "latest_valuation": "$2.3 billion",
       "total_equity_funding": "$689 million",
-      "last_valuation_date": "Apr-17"
+      "ownership_pct": 0.11,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/domo"
    },
-   "HelloFresh": {
+   "hellofresh": {
+      "proper_name": "HelloFresh",
       "latest_valuation": "$2.2 billion",
       "total_equity_funding": "$367 million",
-      "last_valuation_date": "Dec-16"
+      "ownership_pct": 0.03,
+      "board_member": "John Smith",
+      "last_valuation_date": "16-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/hellofresh"
    },
-   "Trendy Group": {
+   "trendy group": {
+      "proper_name": "Trendy Group",
       "latest_valuation": "$2.0 billion",
       "total_equity_funding": "$200 million",
-      "last_valuation_date": "Feb-12"
+      "ownership_pct": 0.15,
+      "board_member": "John Snow",
+      "last_valuation_date": "12-Feb",
+      "crunchbase_link": "https://www.crunchbase.com/organization/trendy-international-group"
    },
-   "Razer": {
+   "razer": {
+      "proper_name": "Razer",
       "latest_valuation": "$2.0 billion",
       "total_equity_funding": "$200 million",
-      "last_valuation_date": "May-17"
+      "ownership_pct": 0.15,
+      "board_member": "John Smith",
+      "last_valuation_date": "17-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/razer"
    },
-   "Coupang": {
+   "coupang": {
+      "proper_name": "Coupang",
       "latest_valuation": "$2.0 billion",
       "total_equity_funding": "$1.4 billion",
-      "last_valuation_date": "Jun-15"
+      "ownership_pct": 0.17,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "15-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/coupang"
    },
-   "Zenefits (YourPeople)": {
+   "zenefits": {
+      "proper_name": "Zenefits (YourPeople)",
       "latest_valuation": "$2.0 billion",
       "total_equity_funding": "$596 million",
-      "last_valuation_date": "Jun-16"
+      "ownership_pct": 0.23,
+      "board_member": "John Snow",
+      "last_valuation_date": "16-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/zenefits"
    },
-   "Github": {
+   "github": {
+      "proper_name": "Github",
       "latest_valuation": "$2.0 billion",
       "total_equity_funding": "$350 million",
-      "last_valuation_date": "Jul-15"
+      "ownership_pct": 0.05,
+      "board_member": "John Smith",
+      "last_valuation_date": "15-Jul",
+      "crunchbase_link": "https://www.crunchbase.com/organization/github"
    },
-   "Avant": {
+   "avant": {
+      "proper_name": "Avant",
       "latest_valuation": "$2.0 billion",
       "total_equity_funding": "$659 million",
-      "last_valuation_date": "Oct-15"
+      "ownership_pct": 0.14,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "15-Oct",
+      "crunchbase_link": "https://www.crunchbase.com/organization/avant-credit"
    },
-   "Uptake": {
+   "uptake": {
+      "proper_name": "Uptake",
       "latest_valuation": "$2.0 billion",
       "total_equity_funding": "$135 million",
-      "last_valuation_date": "Feb-17"
+      "ownership_pct": 0.21,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-Feb",
+      "crunchbase_link": "https://www.crunchbase.com/organization/uptake-3"
    },
-   "Microvast": {
+   "microvast": {
+      "proper_name": "Microvast",
       "latest_valuation": "$2.0 billion",
       "total_equity_funding": "$450 million",
-      "last_valuation_date": "Apr-17"
+      "ownership_pct": 0.02,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/microvast"
    },
-   "Prosper Marketplace": {
+   "prosper marketplace": {
+      "proper_name": "Prosper Marketplace",
       "latest_valuation": "$1.9 billion",
       "total_equity_funding": "$360 million",
-      "last_valuation_date": "Apr-15"
+      "ownership_pct": 0.18,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/prosper"
    },
-   "WePiao": {
+   "wepiao": {
+      "proper_name": "WePiao",
       "latest_valuation": "$1.9 billion",
       "total_equity_funding": "$811 million",
-      "last_valuation_date": "Apr-16"
+      "ownership_pct": 0.06,
+      "board_member": "John Snow",
+      "last_valuation_date": "16-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/beijing-weiying-technology"
    },
-   "Sprinklr": {
+   "sprinklr": {
+      "proper_name": "Sprinklr",
       "latest_valuation": "$1.8 billion",
       "total_equity_funding": "$275 million",
-      "last_valuation_date": "Jul-16"
+      "ownership_pct": 0.04,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "16-Jul",
+      "crunchbase_link": "https://www.crunchbase.com/organization/sprinklr"
    },
-   "ZocDoc": {
+   "zocdoc": {
+      "proper_name": "ZocDoc",
       "latest_valuation": "$1.8 billion",
       "total_equity_funding": "$226 million",
-      "last_valuation_date": "Aug-15"
+      "ownership_pct": 0.04,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "15-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/zocdoc"
    },
-   "AppNexus": {
+   "appnexus": {
+      "proper_name": "AppNexus",
       "latest_valuation": "$1.8 billion",
       "total_equity_funding": "$251 million",
-      "last_valuation_date": "Apr-15"
+      "ownership_pct": 0.13,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/appnexus"
    },
-   "Quora": {
+   "quora": {
+      "proper_name": "Quora",
       "latest_valuation": "$1.8 billion",
       "total_equity_funding": "$226 million",
-      "last_valuation_date": "Apr-17"
+      "ownership_pct": 0.09,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/quora"
    },
-   "Reddit": {
+   "reddit": {
+      "proper_name": "Reddit",
       "latest_valuation": "$1.8 billion",
       "total_equity_funding": "$250 million",
-      "last_valuation_date": "Jul-17"
+      "ownership_pct": 0.07,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-Jul",
+      "crunchbase_link": "https://www.crunchbase.com/organization/reddit"
    },
-   "Affirm": {
+   "affirm": {
+      "proper_name": "Affirm",
       "latest_valuation": "$1.8 billion",
       "total_equity_funding": "$200 million",
-      "last_valuation_date": "Nov-17"
+      "ownership_pct": 0.14,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "17-Nov",
+      "crunchbase_link": "https://www.crunchbase.com/organization/affirm"
    },
-   "Honest Co.": {
+   "honest co": {
+      "proper_name": "Honest Co.",
       "latest_valuation": "$1.7 billion",
       "total_equity_funding": "$222 million",
-      "last_valuation_date": "Aug-15"
+      "ownership_pct": 0.17,
+      "board_member": "John Smith",
+      "last_valuation_date": "15-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/the-honest-company"
    },
-   "BuzzFeed": {
+   "buzzfeed": {
+      "proper_name": "BuzzFeed",
       "latest_valuation": "$1.7 billion",
       "total_equity_funding": "$497 million",
-      "last_valuation_date": "Nov-16"
+      "ownership_pct": 0.21,
+      "board_member": "John Snow",
+      "last_valuation_date": "16-Nov",
+      "crunchbase_link": "https://www.crunchbase.com/organization/buzzfeed"
    },
-   "23andMe": {
+   "23andme": {
+      "proper_name": "23andMe",
       "latest_valuation": "$1.7 billion",
       "total_equity_funding": "$491 million",
-      "last_valuation_date": "Sep-17"
+      "ownership_pct": 0.19,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-Sep",
+      "crunchbase_link": "https://www.crunchbase.com/organization/23andme"
    },
-   "Discord": {
+   "discord": {
+      "proper_name": "Discord",
       "latest_valuation": "$1.6 billion",
       "total_equity_funding": "$152 million",
-      "last_valuation_date": "Apr-18"
+      "ownership_pct": 0.08,
+      "board_member": "John Smith",
+      "last_valuation_date": "18-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/discord"
    },
-   "Lakala.com": {
+   "lakala.com": {
+      "proper_name": "Lakala.com",
       "latest_valuation": "$1.6 billion",
       "total_equity_funding": "$273 million",
-      "last_valuation_date": "Jun-15"
+      "ownership_pct": 0.13,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "15-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/lakala"
    },
-   "JetSmarter": {
+   "jetsmarter": {
+      "proper_name": "JetSmarter",
       "latest_valuation": "$1.6 billion",
       "total_equity_funding": "$157 million",
-      "last_valuation_date": "Dec-16"
+      "ownership_pct": 0.11,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "16-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/jetsmarter"
    },
-   "Afiniti": {
+   "afiniti": {
+      "proper_name": "Afiniti",
       "latest_valuation": "$1.6 billion",
       "total_equity_funding": "$122 million",
-      "last_valuation_date": "Apr-17"
+      "ownership_pct": 0.25,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/afiniti"
    },
-   "CureVac": {
+   "curevac": {
+      "proper_name": "CureVac",
       "latest_valuation": "$1.6 billion",
       "total_equity_funding": "$382 million",
-      "last_valuation_date": "Nov-16"
+      "ownership_pct": 0.2,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "16-Nov",
+      "crunchbase_link": "https://www.crunchbase.com/organization/curevac"
    },
-   "Oxford Nanopore": {
+   "oxford nanopore": {
+      "proper_name": "Oxford Nanopore",
       "latest_valuation": "$1.6 billion",
       "total_equity_funding": "$471 million",
-      "last_valuation_date": "Dec-16"
+      "ownership_pct": 0.06,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "16-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/university-of-oxford"
    },
-   "Quanergy": {
+   "quanergy": {
+      "proper_name": "Quanergy",
       "latest_valuation": "$1.6 billion",
       "total_equity_funding": "$150 million",
-      "last_valuation_date": "Aug-16"
+      "ownership_pct": 0.02,
+      "board_member": "John Smith",
+      "last_valuation_date": "16-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/quanergy"
    },
-   "Zoox": {
+   "zoox": {
+      "proper_name": "Zoox",
       "latest_valuation": "$1.6 billion",
       "total_equity_funding": "$302 million",
-      "last_valuation_date": "Nov-16"
+      "ownership_pct": 0.03,
+      "board_member": "John Snow",
+      "last_valuation_date": "16-Nov",
+      "crunchbase_link": "https://www.crunchbase.com/organization/zoox"
    },
-   "InsideSales.com": {
+   "insidesales.com": {
+      "proper_name": "InsideSales.com",
       "latest_valuation": "$1.5 billion",
       "total_equity_funding": "N/A",
-      "last_valuation_date": "Jan-17"
+      "ownership_pct": 0.05,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-Jan",
+      "crunchbase_link": "https://www.crunchbase.com/organization/insidesales-com"
    },
-   "Koudai Shopping": {
+   "koudai shopping": {
+      "proper_name": "Koudai Shopping",
       "latest_valuation": "$1.5 billion",
       "total_equity_funding": "$364 million",
-      "last_valuation_date": "Oct-14"
+      "ownership_pct": 0.17,
+      "board_member": "John Snow",
+      "last_valuation_date": "14-Oct",
+      "crunchbase_link": "https://www.crunchbase.com/organization/koudai"
    },
-   "Farfetch": {
+   "farfetch": {
+      "proper_name": "Farfetch",
       "latest_valuation": "$1.5 billion",
       "total_equity_funding": "$700 million",
-      "last_valuation_date": "Jun-17"
+      "ownership_pct": 0.25,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/farfetch"
    },
-   "BlaBlaCar": {
+   "blablacar": {
+      "proper_name": "BlaBlaCar",
       "latest_valuation": "$1.5 billion",
       "total_equity_funding": "$312 million",
-      "last_valuation_date": "Jul-15"
+      "ownership_pct": 0.11,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "15-Jul",
+      "crunchbase_link": "https://www.crunchbase.com/organization/blablacar"
    },
-   "Mu Sigma": {
+   "mu sigma": {
+      "proper_name": "Mu Sigma",
       "latest_valuation": "$1.5 billion",
       "total_equity_funding": "$195 million",
-      "last_valuation_date": "Feb-13"
+      "ownership_pct": 0.11,
+      "board_member": "John Smith",
+      "last_valuation_date": "13-Feb",
+      "crunchbase_link": "https://www.crunchbase.com/organization/mu-sigma"
    },
-   "Guahao.com": {
+   "guahao.com": {
+      "proper_name": "Guahao.com",
       "latest_valuation": "$1.5 billion",
       "total_equity_funding": "$509 million",
-      "last_valuation_date": "Sep-15"
+      "ownership_pct": 0.15,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Sep",
+      "crunchbase_link": "https://www.crunchbase.com/organization/guahao"
    },
-   "Klarna": {
+   "klarna": {
+      "proper_name": "Klarna",
       "latest_valuation": "$1.4 billion",
       "total_equity_funding": "$299 million",
-      "last_valuation_date": "Mar-14"
+      "ownership_pct": 0.05,
+      "board_member": "John Snow",
+      "last_valuation_date": "14-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/klarna"
    },
-   "Hike": {
+   "hike": {
+      "proper_name": "Hike",
       "latest_valuation": "$1.4 billion",
       "total_equity_funding": "$260 million",
-      "last_valuation_date": "Aug-16"
+      "ownership_pct": 0.1,
+      "board_member": "John Snow",
+      "last_valuation_date": "16-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/hike"
    },
-   "C3 IoT": {
+   "c3 iot": {
+      "proper_name": "C3 IoT",
       "latest_valuation": "$1.4 billion",
       "total_equity_funding": "$111 million",
-      "last_valuation_date": "Mar-17"
+      "ownership_pct": 0.23,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "17-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/c3"
    },
-   "AvidXchange": {
+   "avidxchange": {
+      "proper_name": "AvidXchange",
       "latest_valuation": "$1.4 billion",
       "total_equity_funding": "$558 million",
-      "last_valuation_date": "Jun-17"
+      "ownership_pct": 0.16,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/avidxchange"
    },
-   "Deem": {
+   "deem": {
+      "proper_name": "Deem",
       "latest_valuation": "$1.4 billion",
       "total_equity_funding": "$474 million",
-      "last_valuation_date": "Sep-11"
+      "ownership_pct": 0.12,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "11-Sep",
+      "crunchbase_link": "https://www.crunchbase.com/organization/deem"
    },
-   "Apttus": {
+   "apttus": {
+      "proper_name": "Apttus",
       "latest_valuation": "$1.4 billion",
       "total_equity_funding": "$329 million",
-      "last_valuation_date": "Sep-17"
+      "ownership_pct": 0.13,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-Sep",
+      "crunchbase_link": "https://www.crunchbase.com/organization/apttus"
    },
-   "Thumbtack": {
+   "thumbtack": {
+      "proper_name": "Thumbtack",
       "latest_valuation": "$1.3 billion",
       "total_equity_funding": "$273 million",
-      "last_valuation_date": "Sep-15"
+      "ownership_pct": 0.09,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "15-Sep",
+      "crunchbase_link": "https://www.crunchbase.com/organization/thumbtack"
    },
-   "Robinhood": {
+   "robinhood": {
+      "proper_name": "Robinhood",
       "latest_valuation": "$1.3 billion",
       "total_equity_funding": "$176 million",
-      "last_valuation_date": "Mar-17"
+      "ownership_pct": 0.15,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/analyst"
    },
-   "Ticket Monster": {
+   "ticket monster": {
+      "proper_name": "Ticket Monster",
       "latest_valuation": "$1.3 billion",
       "total_equity_funding": "$471 million",
-      "last_valuation_date": "Apr-17"
+      "ownership_pct": 0.11,
+      "board_member": "John Smith",
+      "last_valuation_date": "17-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/ticket-monster"
    },
-   "Rubrik": {
+   "rubrik": {
+      "proper_name": "Rubrik",
       "latest_valuation": "$1.3 billion",
       "total_equity_funding": "$292 million",
-      "last_valuation_date": "Apr-17"
+      "ownership_pct": 0.08,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/rubrik"
    },
-   "Zeta Global": {
+   "zeta global": {
+      "proper_name": "Zeta Global",
       "latest_valuation": "$1.3 billion",
       "total_equity_funding": "$310 million",
-      "last_valuation_date": "Apr-17"
+      "ownership_pct": 0.06,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "17-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/zeta-interactive"
    },
-   "FanDuel": {
+   "fanduel": {
+      "proper_name": "FanDuel",
       "latest_valuation": "$1.3 billion",
       "total_equity_funding": "$363 million",
-      "last_valuation_date": "Jul-15"
+      "ownership_pct": 0.14,
+      "board_member": "John Smith",
+      "last_valuation_date": "15-Jul",
+      "crunchbase_link": "https://www.crunchbase.com/organization/fanduel"
    },
-   "Medallia": {
+   "medallia": {
+      "proper_name": "Medallia",
       "latest_valuation": "$1.3 billion",
       "total_equity_funding": "$255 million",
-      "last_valuation_date": "Jul-15"
+      "ownership_pct": 0.04,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Jul",
+      "crunchbase_link": "https://www.crunchbase.com/organization/medallia"
    },
-   "Kabbage": {
+   "kabbage": {
+      "proper_name": "Kabbage",
       "latest_valuation": "$1.3 billion",
       "total_equity_funding": "$490 million",
-      "last_valuation_date": "Aug-17"
+      "ownership_pct": 0.1,
+      "board_member": "John Smith",
+      "last_valuation_date": "17-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/kabbage"
    },
-   "Peloton": {
+   "peloton": {
+      "proper_name": "Peloton",
       "latest_valuation": "$1.3 billion",
       "total_equity_funding": "$444 million",
-      "last_valuation_date": "May-17"
+      "ownership_pct": 0.1,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/peloton-interactive"
    },
-   "Infinidat": {
+   "infinidat": {
+      "proper_name": "Infinidat",
       "latest_valuation": "$1.2 billion",
       "total_equity_funding": "$230 million",
-      "last_valuation_date": "Apr-15"
+      "ownership_pct": 0.08,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/infinidat"
    },
-   "Warby Parker": {
+   "warby parker": {
+      "proper_name": "Warby Parker",
       "latest_valuation": "$1.2 billion",
       "total_equity_funding": "$218 million",
-      "last_valuation_date": "Apr-15"
+      "ownership_pct": 0.07,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/warby-parker"
    },
-   "Clover Health": {
+   "clover health": {
+      "proper_name": "Clover Health",
       "latest_valuation": "$1.2 billion",
       "total_equity_funding": "$425 million",
-      "last_valuation_date": "May-17"
+      "ownership_pct": 0.04,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/clover"
    },
-   "OfferUp": {
+   "offerup": {
+      "proper_name": "OfferUp",
       "latest_valuation": "$1.2 billion",
       "total_equity_funding": "$200 million",
-      "last_valuation_date": "Aug-16"
+      "ownership_pct": 0.13,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "16-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/offerup"
    },
-   "Automattic": {
+   "automattic": {
+      "proper_name": "Automattic",
       "latest_valuation": "$1.2 billion",
       "total_equity_funding": "$190 million",
-      "last_valuation_date": "May-14"
+      "ownership_pct": 0.25,
+      "board_member": "John Smith",
+      "last_valuation_date": "14-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/automattic"
    },
-   "Global Fashion Group": {
+   "global fashion group": {
+      "proper_name": "Global Fashion Group",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$1.5 billion",
-      "last_valuation_date": "Apr-16"
+      "ownership_pct": 0.2,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "16-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/global-fashion-group"
    },
-   "Actifio": {
+   "actifio": {
+      "proper_name": "Actifio",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$208 million",
-      "last_valuation_date": "Mar-14"
+      "ownership_pct": 0.12,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "14-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/actifio"
    },
-   "Proteus Digital Health": {
+   "proteus digital health": {
+      "proper_name": "Proteus Digital Health",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$354 million",
-      "last_valuation_date": "Jun-14"
+      "ownership_pct": 0.14,
+      "board_member": "John Smith",
+      "last_valuation_date": "14-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/proteus-biomedical"
    },
-   "IronSource": {
+   "ironsource": {
+      "proper_name": "IronSource",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$103 million",
-      "last_valuation_date": "Aug-14"
+      "ownership_pct": 0.07,
+      "board_member": "John Snow",
+      "last_valuation_date": "14-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/ironsource"
    },
-   "Nextdoor": {
+   "nextdoor": {
+      "proper_name": "Nextdoor",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$215 million",
-      "last_valuation_date": "Mar-15"
+      "ownership_pct": 0.14,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "15-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/nextdoor"
    },
-   "Shopclues.com": {
+   "shopclues.com": {
+      "proper_name": "Shopclues.com",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$468 million",
-      "last_valuation_date": "Jan-16"
+      "ownership_pct": 0.12,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "16-Jan",
+      "crunchbase_link": "https://www.crunchbase.com/organization/shopclues-com"
    },
-   "TransferWise": {
+   "transferwise": {
+      "proper_name": "TransferWise",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$117 million",
-      "last_valuation_date": "May-16"
+      "ownership_pct": 0.1,
+      "board_member": "John Snow",
+      "last_valuation_date": "16-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/transferwise"
    },
-   "Cylance": {
+   "cylance": {
+      "proper_name": "Cylance",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$177 million",
-      "last_valuation_date": "Jun-16"
+      "ownership_pct": 0.12,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "16-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/cylance"
    },
-   "OpenDoor": {
+   "opendoor": {
+      "proper_name": "OpenDoor",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$320 million",
-      "last_valuation_date": "Nov-16"
+      "ownership_pct": 0.04,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "16-Nov",
+      "crunchbase_link": "https://www.crunchbase.com/organization/opendoor-2"
    },
-   "View": {
+   "view": {
+      "proper_name": "View",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$644 million",
-      "last_valuation_date": "Feb-17"
+      "ownership_pct": 0.22,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-Feb",
+      "crunchbase_link": "https://www.crunchbase.com/organization/view-inc"
    },
-   "Anaplan": {
+   "anaplan": {
+      "proper_name": "Anaplan",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$240 million",
-      "last_valuation_date": "Jan-16"
+      "ownership_pct": 0.02,
+      "board_member": "John Snow",
+      "last_valuation_date": "16-Jan",
+      "crunchbase_link": "https://www.crunchbase.com/organization/anaplan"
    },
-   "Deliveroo": {
+   "deliveroo": {
+      "proper_name": "Deliveroo",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$473 million",
-      "last_valuation_date": "Aug-16"
+      "ownership_pct": 0.09,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "16-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/deliveroo"
    },
-   "Carbon": {
+   "carbon": {
+      "proper_name": "Carbon",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$222 million",
-      "last_valuation_date": "Sep-16"
+      "ownership_pct": 0.22,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "16-Sep",
+      "crunchbase_link": "https://www.crunchbase.com/organization/carbon3d"
    },
-   "Gusto (ZenPayroll)": {
+   "gusto (zenpayroll)": {
+      "proper_name": "Gusto (ZenPayroll)",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$136 million",
-      "last_valuation_date": "Dec-15"
+      "ownership_pct": 0.22,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "15-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/gusto"
    },
-   "Jiuxian": {
+   "jiuxian": {
+      "proper_name": "Jiuxian",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$250 million",
-      "last_valuation_date": "Jul-15"
+      "ownership_pct": 0.25,
+      "board_member": "John Smith",
+      "last_valuation_date": "15-Jul",
+      "crunchbase_link": "https://www.crunchbase.com/organization/winebibber"
    },
-   "Aiwujiwu": {
+   "aiwujiwu": {
+      "proper_name": "Aiwujiwu",
       "latest_valuation": "$1.1 billion",
       "total_equity_funding": "$305 million",
-      "last_valuation_date": "Nov-15"
+      "ownership_pct": 0.18,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Nov",
+      "crunchbase_link": "https://www.crunchbase.com/organization/iwjw-iwjw"
    },
-   "AppDirect": {
+   "appdirect": {
+      "proper_name": "AppDirect",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$245 million",
-      "last_valuation_date": "Oct-15"
+      "ownership_pct": 0.21,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Oct",
+      "crunchbase_link": "https://www.crunchbase.com/organization/appdirect"
    },
-   "Yello Mobile": {
+   "yello mobile": {
+      "proper_name": "Yello Mobile",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$112 million",
-      "last_valuation_date": "Dec-14"
+      "ownership_pct": 0.21,
+      "board_member": "John Smith",
+      "last_valuation_date": "14-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/yello-mobile"
    },
-   "CloudFlare": {
+   "cloudflare": {
+      "proper_name": "CloudFlare",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$72 million",
-      "last_valuation_date": "Dec-12"
+      "ownership_pct": 0.16,
+      "board_member": "John Snow",
+      "last_valuation_date": "12-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/cloudflare"
    },
-   "Evernote": {
+   "evernote": {
+      "proper_name": "Evernote",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$302 million",
-      "last_valuation_date": "May-12"
+      "ownership_pct": 0.19,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "12-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/evernote"
    },
-   "Eventbrite": {
+   "eventbrite": {
+      "proper_name": "Eventbrite",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$200 million",
-      "last_valuation_date": "Mar-14"
+      "ownership_pct": 0.25,
+      "board_member": "John Smith",
+      "last_valuation_date": "14-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/eventbrite"
    },
-   "Tango": {
+   "tango": {
+      "proper_name": "Tango",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$367 million",
-      "last_valuation_date": "Mar-14"
+      "ownership_pct": 0.13,
+      "board_member": "John Smith",
+      "last_valuation_date": "14-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/tango-2"
    },
-   "Mogujie": {
+   "mogujie": {
+      "proper_name": "Mogujie",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$200 million",
-      "last_valuation_date": "Jun-14"
+      "ownership_pct": 0.22,
+      "board_member": "John Smith",
+      "last_valuation_date": "14-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/mogujie"
    },
-   "Lookout": {
+   "lookout": {
+      "proper_name": "Lookout",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$284 million",
-      "last_valuation_date": "Aug-14"
+      "ownership_pct": 0.19,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "14-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/lookout"
    },
-   "JustFab": {
+   "justfab": {
+      "proper_name": "JustFab",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$250 million",
-      "last_valuation_date": "Aug-14"
+      "ownership_pct": 0.22,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "14-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/justfabulous"
    },
-   "Shazam": {
+   "shazam": {
+      "proper_name": "Shazam",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$170 million",
-      "last_valuation_date": "Jan-15"
+      "ownership_pct": 0.15,
+      "board_member": "John Smith",
+      "last_valuation_date": "15-Jan",
+      "crunchbase_link": "https://www.crunchbase.com/organization/shazam"
    },
-   "Beibei": {
+   "beibei": {
+      "proper_name": "Beibei",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$124 million",
-      "last_valuation_date": "Jan-15"
+      "ownership_pct": 0.19,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Jan",
+      "crunchbase_link": "https://www.crunchbase.com/organization/beibei"
    },
-   "Pluralsight": {
+   "pluralsight": {
+      "proper_name": "Pluralsight",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$169 million",
-      "last_valuation_date": "Aug-14"
+      "ownership_pct": 0.08,
+      "board_member": "John Snow",
+      "last_valuation_date": "14-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/pluralsight"
    },
-   "Funding Circle": {
+   "funding circle": {
+      "proper_name": "Funding Circle",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$273 million",
-      "last_valuation_date": "Apr-15"
+      "ownership_pct": 0.04,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "15-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/funding-circle"
    },
-   "Quikr": {
+   "quikr": {
+      "proper_name": "Quikr",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$350 million",
-      "last_valuation_date": "Sep-14"
+      "ownership_pct": 0.19,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "14-Sep",
+      "crunchbase_link": "https://www.crunchbase.com/organization/quikr-india"
    },
-   "MarkLogic": {
+   "marklogic": {
+      "proper_name": "MarkLogic",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$173 million",
-      "last_valuation_date": "Apr-15"
+      "ownership_pct": 0.15,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "15-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/marklogic"
    },
-   "Lamabang": {
+   "lamabang": {
+      "proper_name": "Lamabang",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$120 million",
-      "last_valuation_date": "Mar-15"
+      "ownership_pct": 0.25,
+      "board_member": "John Smith",
+      "last_valuation_date": "15-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/lamabang"
    },
-   "Zomato Media": {
+   "zomato media": {
+      "proper_name": "Zomato Media",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$163 million",
-      "last_valuation_date": "Mar-15"
+      "ownership_pct": 0.03,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "15-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/zomato"
    },
-   "DraftKings": {
+   "draftkings": {
+      "proper_name": "DraftKings",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$526 million",
-      "last_valuation_date": "Mar-17"
+      "ownership_pct": 0.22,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "17-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/draftkings"
    },
-   "Zscaler": {
+   "zscaler": {
+      "proper_name": "Zscaler",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$138 million",
-      "last_valuation_date": "Jul-15"
+      "ownership_pct": 0.2,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "15-Jul",
+      "crunchbase_link": "https://www.crunchbase.com/organization/zscaler"
    },
-   "Tujia": {
+   "tujia": {
+      "proper_name": "Tujia",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$465 million",
-      "last_valuation_date": "Aug-15"
+      "ownership_pct": 0.12,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/tujia"
    },
-   "APUS Group": {
+   "apus group": {
+      "proper_name": "APUS Group",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$116 million",
-      "last_valuation_date": "Jan-15"
+      "ownership_pct": 0.16,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "15-Jan",
+      "crunchbase_link": "https://www.crunchbase.com/organization/apus"
    },
-   "Vox Media": {
+   "vox media": {
+      "proper_name": "Vox Media",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$126 million",
-      "last_valuation_date": "Aug-15"
+      "ownership_pct": 0.2,
+      "board_member": "John Smith",
+      "last_valuation_date": "15-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/vox-media"
    },
-   "Kik Interactive": {
+   "kik interactive": {
+      "proper_name": "Kik Interactive",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$119 million",
-      "last_valuation_date": "Aug-15"
+      "ownership_pct": 0.03,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "15-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/kik-interactive"
    },
-   "Adaptive Biotechnologies": {
+   "adaptive biotechnologies": {
+      "proper_name": "Adaptive Biotechnologies",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$425 million",
-      "last_valuation_date": "May-15"
+      "ownership_pct": 0.08,
+      "board_member": "John Smith",
+      "last_valuation_date": "15-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/adaptive-biotechnologies"
    },
-   "Datto": {
+   "datto": {
+      "proper_name": "Datto",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$100 million",
-      "last_valuation_date": "Nov-15"
+      "ownership_pct": 0.24,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Nov",
+      "crunchbase_link": "https://www.crunchbase.com/organization/datto"
    },
-   "Udacity": {
+   "udacity": {
+      "proper_name": "Udacity",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$161 million",
-      "last_valuation_date": "Nov-15"
+      "ownership_pct": 0.12,
+      "board_member": "John Snow",
+      "last_valuation_date": "15-Nov",
+      "crunchbase_link": "https://www.crunchbase.com/organization/udacity"
    },
-   "TutorGroup": {
+   "tutorgroup": {
+      "proper_name": "TutorGroup",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$315 million",
-      "last_valuation_date": "Nov-15"
+      "ownership_pct": 0.17,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "15-Nov",
+      "crunchbase_link": "https://www.crunchbase.com/organization/tutorgroup"
    },
-   "Mia.com": {
+   "mia.com": {
+      "proper_name": "Mia.com",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$232 million",
-      "last_valuation_date": "Sep-15"
+      "ownership_pct": 0.12,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "15-Sep",
+      "crunchbase_link": "https://www.crunchbase.com/organization/mia-com"
    },
-   "Docker": {
+   "docker": {
+      "proper_name": "Docker",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$182 million",
-      "last_valuation_date": "Apr-15"
+      "ownership_pct": 0.04,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "15-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/docker"
    },
-   "Wifimaster": {
+   "wifimaster": {
+      "proper_name": "Wifimaster",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$52 million",
-      "last_valuation_date": "Mar-15"
+      "ownership_pct": 0.17,
+      "board_member": "John Smith",
+      "last_valuation_date": "15-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/wifi-skeleton-key"
    },
-   "Panshi": {
+   "panshi": {
+      "proper_name": "Panshi",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$220 million",
-      "last_valuation_date": "Apr-15"
+      "ownership_pct": 0.22,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "15-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/panshi"
    },
-   "Avast Software": {
+   "avast software": {
+      "proper_name": "Avast Software",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$100 million",
-      "last_valuation_date": "Feb-14"
+      "ownership_pct": 0.23,
+      "board_member": "John Snow",
+      "last_valuation_date": "14-Feb",
+      "crunchbase_link": "https://www.crunchbase.com/organization/avast"
    },
-   "Fanli": {
+   "fanli": {
+      "proper_name": "Fanli",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$30 million",
-      "last_valuation_date": "Apr-15"
+      "ownership_pct": 0.04,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "15-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/fanli-website"
    },
-   "ForeScout": {
+   "forescout": {
+      "proper_name": "ForeScout",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$156 million",
-      "last_valuation_date": "Jan-16"
+      "ownership_pct": 0.15,
+      "board_member": "John Snow",
+      "last_valuation_date": "16-Jan",
+      "crunchbase_link": "https://www.crunchbase.com/organization/forescout"
    },
-   "SMS Assist": {
+   "sms assist": {
+      "proper_name": "SMS Assist",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$255 million",
-      "last_valuation_date": "Jun-16"
+      "ownership_pct": 0.13,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "16-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/sms-assist"
    },
-   "Liepin.com": {
+   "liepin.com": {
+      "proper_name": "Liepin.com",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$187 million",
-      "last_valuation_date": "Jun-16"
+      "ownership_pct": 0.08,
+      "board_member": "John Snow",
+      "last_valuation_date": "16-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/liepin-com"
    },
-   "Mofang Apartments": {
+   "mofang apartments": {
+      "proper_name": "Mofang Apartments",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$500 million",
-      "last_valuation_date": "Apr-16"
+      "ownership_pct": 0.18,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "16-Apr",
+      "crunchbase_link": "https://www.crunchbase.com/organization/mofang-gongyu"
    },
-   "Africa Internet Group": {
+   "africa internet group": {
+      "proper_name": "Africa Internet Group",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$469 million",
-      "last_valuation_date": "Mar-16"
+      "ownership_pct": 0.13,
+      "board_member": "John Smith",
+      "last_valuation_date": "16-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/jumia-group"
    },
-   "Compass": {
+   "compass": {
+      "proper_name": "Compass",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$210 million",
-      "last_valuation_date": "Aug-16"
+      "ownership_pct": 0.13,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "16-Aug",
+      "crunchbase_link": "https://www.crunchbase.com/organization/compassinc"
    },
-   "Procore": {
+   "procore": {
+      "proper_name": "Procore",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$143 million",
-      "last_valuation_date": "Dec-16"
+      "ownership_pct": 0.14,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "16-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/procore-technologies"
    },
-   "Careem": {
+   "careem": {
+      "proper_name": "Careem",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$422 million",
-      "last_valuation_date": "Dec-16"
+      "ownership_pct": 0.19,
+      "board_member": "John Smith",
+      "last_valuation_date": "16-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/careem"
    },
-   "Huochebang": {
+   "huochebang": {
+      "proper_name": "Huochebang",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$150 million",
-      "last_valuation_date": "Dec-16"
+      "ownership_pct": 0.01,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "16-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/huochebang"
    },
-   "Zoom Video": {
+   "zoom video": {
+      "proper_name": "Zoom Video",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$143 million",
-      "last_valuation_date": "Jan-17"
+      "ownership_pct": 0.08,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "17-Jan",
+      "crunchbase_link": "https://www.crunchbase.com/organization/zoom-video-communications"
    },
-   "Rocket Lab": {
+   "rocket lab": {
+      "proper_name": "Rocket Lab",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$75 million",
-      "last_valuation_date": "Mar-17"
+      "ownership_pct": 0.1,
+      "board_member": "Jane Doe",
+      "last_valuation_date": "17-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/rocket-lab"
    },
-   "CrowdStrike": {
+   "crowdstrike": {
+      "proper_name": "CrowdStrike",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$256 million",
-      "last_valuation_date": "May-17"
+      "ownership_pct": 0.22,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "17-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/crowdstrike"
    },
-   "Symphony": {
+   "symphony": {
+      "proper_name": "Symphony",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$229 million",
-      "last_valuation_date": "May-17"
+      "ownership_pct": 0.25,
+      "board_member": "John Smith",
+      "last_valuation_date": "17-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/symphony-3"
    },
-   "Yuanfudao": {
+   "yuanfudao": {
+      "proper_name": "Yuanfudao",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$120 million",
-      "last_valuation_date": "May-17"
+      "ownership_pct": 0.11,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/yuanfudao"
    },
-   "Cybereason": {
+   "cybereason": {
+      "proper_name": "Cybereason",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$189 million",
-      "last_valuation_date": "Jun-17"
+      "ownership_pct": 0.02,
+      "board_member": "John Snow",
+      "last_valuation_date": "17-Jun",
+      "crunchbase_link": "https://www.crunchbase.com/organization/cybereason"
    },
-   "Decolar.com": {
+   "decolar.com": {
+      "proper_name": "Decolar.com",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$291 million",
-      "last_valuation_date": "Mar-15"
+      "ownership_pct": 0.21,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "15-Mar",
+      "crunchbase_link": "https://www.crunchbase.com/organization/decolar-com"
    },
-   "Age of Learning": {
+   "age of learning": {
+      "proper_name": "Age of Learning",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$182 million",
-      "last_valuation_date": "May-15"
+      "ownership_pct": 0.08,
+      "board_member": "Jane Sand",
+      "last_valuation_date": "15-May",
+      "crunchbase_link": "https://www.crunchbase.com/organization/age-of-learning"
    },
-   "Ginkgo Bioworks": {
+   "ginkgo bioworks": {
+      "proper_name": "Ginkgo Bioworks",
       "latest_valuation": "$1.0 billion",
       "total_equity_funding": "$435 million",
-      "last_valuation_date": "Dec-17"
-   },
-   "Home24": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Sep-16"
-   },
-   "Dianping": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Oct-15"
-   },
-   "Spotify": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Apr-18"
-   },
-   "Dropbox": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Mar-18"
-   },
-   "Fab": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Mar-15"
-   },
-   "Gilt Groupe": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Jan-16"
-   },
-   "Good Technology": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Sep-15"
-   },
-   "Jawbone": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Jul-17"
-   },
-   "Legendary Entertainment": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Jan-16"
-   },
-   "MongoDB": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Oct-17"
-   },
-   "Pure Storage": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Oct-15"
-   },
-   "Snap": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Mar-17"
-   },
-   "Square": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Nov-15"
-   },
-   "Cloudera": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Apr-17"
-   },
-   "Jasper Technologies": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Feb-16"
-   },
-   "Sunrun": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Aug-15"
-   },
-   "Kabam": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Dec-16"
-   },
-   "Nutanix": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Sep-16"
-   },
-   "AppDynamics": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Jan-17"
-   },
-   "Delivery Hero": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Jun-17"
-   },
-   "Powa": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Mar-16"
-   },
-   "Shopify": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "May-15"
-   },
-   "Beats Electronics": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Aug-14"
-   },
-   "Box": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Jan-15"
-   },
-   "Coupons.com": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Mar-14"
-   },
-   "Fisker Automotive": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Mar-14"
-   },
-   "Hanhua Financial": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Jun-14"
-   },
-   "GoPro": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Jun-14"
-   },
-   "Hortonworks": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Nov-14"
-   },
-   "JD.com": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "May-14"
-   },
-   "LaShou": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Nov-14"
-   },
-   "Lending Club": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Dec-14"
-   },
-   "Meituan": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Oct-15"
-   },
-   "Mobileye": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Aug-14"
-   },
-   "Nest Labs": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Feb-14"
-   },
-   "New Relic": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Dec-14"
-   },
-   "Rocket Internet": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Oct-14"
-   },
-   "Wayfair": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Oct-14"
-   },
-   "Zalando": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Oct-14"
-   },
-   "Kuaidi Dache": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Apr-15"
-   },
-   "SimpliVity": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Jan-17"
-   },
-   "MuleSoft": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Mar-17"
-   },
-   "Lazada Group": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Apr-16"
-   },
-   "Coupa Software": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Oct-16"
-   },
-   "Blue Apron": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Jun-17"
-   },
-   "Twilio": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Jun-16"
-   },
-   "Okta": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Apr-17"
-   },
-   "Stemcentrx": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Apr-16"
-   },
-   "Jet.com": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Aug-16"
-   },
-   "China Rapid Finance": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Apr-17"
-   },
-   "Mode Media": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Sep-16"
-   },
-   "UCar": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Jul-16"
-   },
-   "UberChina": {
-      "latest_valuation": "Exited",
-      "total_equity_funding": "--",
-      "last_valuation_date": "Aug-16"
+      "ownership_pct": 0.07,
+      "board_member": "John Smith",
+      "last_valuation_date": "17-Dec",
+      "crunchbase_link": "https://www.crunchbase.com/organization/ginkgo-bioworks"
    }
 }
