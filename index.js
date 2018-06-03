@@ -15,7 +15,7 @@ const search = require('./src/search');
 
 /* Utils ==================================================================== */
 
-const sendTicker = (tickerObj, response) => {
+const sendTicker = (tickerObj, response, isTwilio) => {
   const {
     name,
     ticker,
@@ -25,19 +25,82 @@ const sendTicker = (tickerObj, response) => {
     yahooUrl,
   } = tickerObj;
   const msg = `${name} (${ticker})\nLast: $${numeral(price).format('0,0.00')}\nMarketCap: $${numeral(marketCap).format('0.0a')}\nFwd P/E: ${numeral(fwdPe).format('0.0')}x ${yahooUrl}`;
-  response.status(200).send(msg);
+  const msgToSend = isTwilio ? twilioApi.respondSms(msg) : msg;
+  response.status(200).send(msgToSend);
 };
 
-const sendUnicorn = (name, response) => {
+const sendUnicorn = (name, response, isTwilio) => {
   const unicornObj = search.unicornJSON[name];
 
   const msg = `${unicornObj.proper_name}\nLast Val: ${unicornObj.latest_valuation}\nTotal Raised: ${unicornObj.total_equity_funding}\nLast Val Date: ${unicornObj.last_valuation_date}\nOwnership %: ${unicornObj.ownership_pct}\nBoard Member: ${unicornObj.board_member}`;
-  response.status(200).send(msg);
+  const msgToSend = isTwilio ? twilioApi.respondSms(msg) : msg;
+  response.status(200).send(msgToSend);
 };
 
-const sendUnicornList = () => {
+const sendUnicornList = (list, response, isTwilio) => {
+  const msg = `We found a few companies: ${list.join(', ')}`;
+  const msgToSend = isTwilio ? twilioApi.respondSms(msg) : msg;
+  response.status(200).send(msgToSend);
+};
 
-}
+const processRequest = (request, response, isTwilio) => {
+  // fetch information from Yahoo
+  if (request !== '') {
+    Promise.all([
+      yahooApi.requestTickerInfoNoReject(request),
+      search.lookupPromiseNoReject(request, search.unicorns),
+    ]).then((responseApis) => {
+      const resultsTicker = responseApis[0];
+      const resultsUnicorns = responseApis[1];
+
+      // happy: only ticker
+      if (resultsTicker && !resultsUnicorns) sendTicker(resultsTicker, response, isTwilio);
+
+      // happy: only 1 unicorn
+      else if (
+        resultsUnicorns
+        && resultsUnicorns.length === 1
+        && !resultsTicker
+      ) sendUnicorn(resultsUnicorns[0], response, isTwilio);
+
+      // multiple unicorn search, whether ticker exists or not:
+      else if (
+        resultsUnicorns
+        && resultsUnicorns.length > 1
+        // && !resultsTicker
+      ) sendUnicornList(resultsUnicorns, response, isTwilio);
+
+      // 1 ticker 1 unicorn
+      else if (
+        resultsTicker
+        && resultsUnicorns
+        && resultsUnicorns.length === 1
+      ) {
+        console.log(`${request} vs. ${resultsUnicorns[0]}`);
+        if (request === resultsUnicorns[0]) {
+          console.log('request and unicorn result are same');
+          sendUnicorn(resultsUnicorns[0], response, isTwilio);
+        } else {
+          console.log('request and unicorn are not the same');
+          sendTicker(resultsTicker, response, isTwilio);
+        }
+      } else {
+        const msg = `We didn't find a ticker or private company unicorn "${request}"`;
+        const msgToSend = isTwilio ? twilioApi.respondSms(msg) : msg;
+        response.send(msgToSend);
+      }
+    })
+      .catch((err) => {
+        console.log('ERROR!');
+        const errToSend = isTwilio ? twilioApi.respondSms(err.message) : err.message;
+        response.send(errToSend);
+      });
+  } else {
+    const msgHelp = 'Enter a ticker in url (e.g. /quote?ticker="aapl")';
+    const msgHelpToSend = isTwilio ? twilioApi.respondSms(msgHelp) : msgHelp;
+    response.send(msgHelpToSend);
+  }
+};
 
 /* Server ==================================================================== */
 
@@ -56,61 +119,7 @@ app.get('/', (req, res) => {
 app.get('/quote', (req, res) => {
   // extract request from URL
   const request = req.query.ticker || '';
-
-  // fetch information from Yahoo
-  if (request !== '') {
-    Promise.all([
-      yahooApi.requestTickerInfoNoReject(request),
-      search.lookupPromiseNoReject(request, search.unicorns),
-    ]).then((response) => {
-      const resultsTicker = response[0];
-      const resultsUnicorns = response[1];
-
-      console.log(resultsUnicorns);
-      let results = [];
-
-      // happy: only ticker
-      if (resultsTicker && !resultsUnicorns) sendTicker(resultsTicker, res);
-
-      // happy: only 1 unicorn
-      else if (
-        resultsUnicorns
-        && resultsUnicorns.length === 1
-        && !resultsTicker
-      ) sendUnicorn(resultsUnicorns[0], res);
-
-      // multiple unicorn search, whether ticker exists or not:
-      else if (
-        resultsUnicorns
-        && resultsUnicorns.length > 1
-        // && !resultsTicker
-      ) results = resultsUnicorns;
-
-      // 1 ticker 1 unicorn
-      else if (
-        resultsTicker
-        && resultsUnicorns
-        && resultsUnicorns.length === 1
-      ) {
-        console.log(`${request} vs. ${resultsUnicorns[0]}`)
-        if (request === resultsUnicorns[0]) {
-          console.log('request and unicorn result are same');
-          sendUnicorn(resultsUnicorns[0], res);
-        } else {
-          console.log('request and unicorn are not the same');
-          sendTicker(resultsTicker, res);
-        }
-      }
-
-      //res.send(results);
-    })
-      .catch((err) => {
-        console.log('ERROR!!');
-        res.send(err.message);
-      });
-  } else {
-    res.send('Enter a ticker in url (e.g. /quote?ticker="aapl")');
-  }
+  processRequest(request, res, false);
 });
 
 // Sms get request
