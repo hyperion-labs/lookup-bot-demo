@@ -34,7 +34,7 @@ const sendTicker = (tickerObj, response, userId, isTwilio) => {
 const sendUnicorn = (name, response, userId, isTwilio) => {
   const unicornObj = search.unicornJSON[name];
 
-  const msg = `${unicornObj.proper_name}\nLast Val: ${unicornObj.latest_valuation}\nTotal Raised: ${unicornObj.total_equity_funding}\nLast Val Date: ${unicornObj.last_valuation_date}\nOwnership %: ${unicornObj.ownership_pct}\nBoard Member: ${unicornObj.board_member} ${unicornObj.crunchbase_link}`;
+  const msg = `${unicornObj.proper_name}\nLast Val: ${unicornObj.latest_valuation}\nTotal Raised: ${unicornObj.total_equity_funding}\nLast Val Date: ${unicornObj.last_valuation_date}\nOwnership: ${numeral(unicornObj.ownership_pct).format('0%')}\nBoard Member: ${unicornObj.board_member} ${unicornObj.crunchbase_link}`;
   const msgToSend = isTwilio ? twilioApi.respondSms(msg) : msg;
   amplitude.logEvent(userId, 'success_unicorn', 'returned', unicornObj.proper_name);
   response.status(200).send(msgToSend);
